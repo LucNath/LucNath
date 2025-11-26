@@ -45,7 +45,7 @@
 ### 🖧 Sistemas Embarcados
 - Microcontroladores 8051  
 - Sistemas com restrição de tempo usando **STM32 (Cortex ARM)**  
-- Desenvolvimento com **BeagleBone Black - Linux Debian**  
+- Desenvolvimento com **BeagleBone Black — Linux Debian**  
 
 ### 💻 Engenharia de Software & Projetos  
 - Levantamento de requisitos (SCRUM)  
@@ -68,22 +68,8 @@
 
 ---
 
-## 🐍 Atividade (Snake Graph)
+## 🔥 Animação Gamer Personalizada (Samurai + LucNath)
 
-![Snake animation](https://raw.githubusercontent.com/LucNath/LucNath/output/snake.svg)
-
----
-
-## ✨ Sobre mim  
-Sou um entusiasta da computação que busca sempre evoluir.  
-Gosto de criar projetos experimentais envolvendo:
-
-- IA  
-- Paralelismo  
-- Back-end  
-- Aplicações Web  
-- Soluções com microcontroladores  
-
-E estou aberto a oportunidades de estágio na área de **Engenharia de Computação**, **Desenvolvimento** ou **IA**.
+<img src="https://i.imgur.com/Cb6q7Ce.gif" width="100%">
 
 ---
