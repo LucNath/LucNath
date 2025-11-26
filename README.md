@@ -62,13 +62,9 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="160em" src="[https://github-readme-stats-git-main-anshuman-singh7.vercel.app](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/readme-card-example.svg
-)/api?username=LucNath&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=LucNath&show_icons=true&theme=tokyonight&count_private=true">
 
-
-  <img height="160em" src="[https://github-readme-stats-git-main-anshuman-singh7.vercel.app](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/readme-card-example.svg
-)/api/top-langs/?username=LucNath&layout=compact&theme=tokyonight"/>
-
+  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=tokyonight">
 
 </div>
 
