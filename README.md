@@ -62,8 +62,10 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucNath&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-chi-one.vercel.app/api?username=LucNath&show_icons=true&theme=tokyonight&count_private=true"/>
+
+  <img height="160em" src="https://github-readme-stats-chi-one.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=tokyonight"/>
+
 </div>
 
 ---
