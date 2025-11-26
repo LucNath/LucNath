@@ -1,16 +1,91 @@
-## Hi there 👋
+# 👋 Olá, eu sou Lucas Nathan  
 
-<!--
-**LucNath/LucNath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Computação** na Universidade de Fortaleza (UNIFOR)  
+🤖 Apaixonado por **IA**, **Ciência de Dados**, **Sistemas Embarcados** e **Desenvolvimento Web**  
+💡 Proativo, curioso e sempre em busca de novos desafios na área de tecnologia  
+🔍 Atualmente focado em Python, C/C++, Java, Web e estudo de modelos de IA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+
+📞 **Telefone:** (85) 98965-2582  
+📧 **E-mail:** lucasnathan.marc@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/lucas-nathan-a83418242/  
+🐙 **GitHub:** github.com/LucNath  
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### 🔹 Linguagens
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="CPP" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Java" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="JS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+</div>
+
+### 🔹 Desenvolvimento Web  
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Node" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+</div>
+
+---
+
+## 💼 Projetos Acadêmicos Relevantes  
+
+### 🖧 Sistemas Embarcados
+- Microcontroladores 8051  
+- Sistemas com restrição de tempo usando **STM32 (Cortex ARM)**  
+- Desenvolvimento com **BeagleBone Black - Linux Debian**  
+
+### 💻 Engenharia de Software & Projeto  
+- Levantamento de requisitos (SCRUM)  
+- Gestão com **ProjectLibre**  
+- Viabilidade econômica de projetos  
+
+### ⚙️ Computação  
+- Projeto de **Sistemas Operacionais**  
+- Projeto de **Computação Paralela e Concorrente**  
+- Projeto de **Redes Convergentes**  
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucNath&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 🐍 Atividade (Snake Graph)
+
+![Snake animation](https://github.com/LucNath/LucNath/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ✨ Sobre mim  
+Sou um entusiasta da computação que busca sempre evoluir.  
+Gosto de criar projetos experimentais envolvendo:
+
+- IA  
+- Paralelismo  
+- Back-end  
+- Aplicações Web  
+- Soluções com microcontroladores  
+
+E estou aberto a oportunidades de estágio na área de **Engenharia de Computação**, **Desenvolvimento** ou **IA**.
+
+---
+
+
