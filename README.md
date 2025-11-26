@@ -70,6 +70,7 @@
 
 ## 🔥 Animação Gamer Personalizada (Samurai + LucNath)
 
-<img src="https://i.imgur.com/Cb6q7Ce.gif" width="100%">
+<img src="https://raw.githubusercontent.com/LucNath/LucNath/main/assets/samurai.gif" width="100%">
+
 
 ---
