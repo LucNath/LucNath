@@ -11,8 +11,8 @@
 
 📞 **Telefone:** (85) 98965-2582  
 📧 **E-mail:** lucasnathan.marc@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/lucas-nathan-a83418242/  
-🐙 **GitHub:** github.com/LucNath  
+🔗 **LinkedIn:** https://www.linkedin.com/in/lucas-nathan-a83418242/  
+🐙 **GitHub:** https://github.com/LucNath  
 
 ---
 
@@ -47,7 +47,7 @@
 - Sistemas com restrição de tempo usando **STM32 (Cortex ARM)**  
 - Desenvolvimento com **BeagleBone Black - Linux Debian**  
 
-### 💻 Engenharia de Software & Projeto  
+### 💻 Engenharia de Software & Projetos  
 - Levantamento de requisitos (SCRUM)  
 - Gestão com **ProjectLibre**  
 - Viabilidade econômica de projetos  
@@ -62,15 +62,15 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucNath&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucNath&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
 ## 🐍 Atividade (Snake Graph)
 
-![Snake animation](https://github.com/LucNath/LucNath/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/LucNath/LucNath/output/snake.svg)
 
 ---
 
@@ -87,5 +87,3 @@ Gosto de criar projetos experimentais envolvendo:
 E estou aberto a oportunidades de estágio na área de **Engenharia de Computação**, **Desenvolvimento** ou **IA**.
 
 ---
-
-
