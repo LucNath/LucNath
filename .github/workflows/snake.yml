@@ -5,18 +5,23 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        id: snake-gif
+        uses: Platane/snk@v3
         with:
           github_user_name: LucNath
           outputs: dist/snake.svg
 
-      - name: Push snake to output branch
+      - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
