@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Lucas Nathan  
 
 🎓 Estudante de **Engenharia de Computação** na Universidade de Fortaleza (UNIFOR)  
-🤖 Apaixonado por **IA**, **Ciência de Dados**, **Sistemas Embarcados** e **Desenvolvimento Web**  
-💡 Proativo, curioso e sempre em busca de novos desafios na área de tecnologia  
-🔍 Atualmente focado em Python, C/C++, Java, Web e estudo de modelos de IA  
+🤖 Interessado em **IA**, **Ciência de Dados**, **Sistemas Embarcados** e **Desenvolvimento Web**  
+💡 Proativo, curioso e sempre buscando evoluir tecnicamente  
+⚙️ Atualmente estudando Python, C/C++, Java, Web e modelos de IA  
 
 ---
 
@@ -68,9 +68,8 @@
 
 ---
 
-## 🔥 Animação Gamer Personalizada (Samurai + LucNath)
+## 🔥 Animação
 
-<img src="https://raw.githubusercontent.com/LucNath/LucNath/main/assets/samurai.gif" width="100%">
-
+<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="100%">
 
 ---
