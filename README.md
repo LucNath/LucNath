@@ -11,7 +11,7 @@
 
 📞 **Telefone:** (85) 98965-2582  
 📧 **E-mail:** lucasnathan.marc@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/lucas-nathan-a83418242/  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/lucas-nathan-a83418242/](https://www.linkedin.com/in/lucas-nathan-de-moraes-gomes-a83418242/)  
 🐙 **GitHub:** https://github.com/LucNath  
 
 ---
