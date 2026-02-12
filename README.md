@@ -1,188 +1,464 @@
-# 👋 Olá, eu sou Lucas Nathan
+```
+   ██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗    ███╗   ██╗ █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ██╗
+   ██║     ██║   ██║██╔════╝██╔══██╗██╔════╝    ████╗  ██║██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗  ██║
+   ██║     ██║   ██║██║     ███████║███████╗    ██╔██╗ ██║███████║   ██║   ███████║███████║██╔██╗ ██║
+   ██║     ██║   ██║██║     ██╔══██║╚════██║    ██║╚██╗██║██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╗██║
+   ███████╗╚██████╔╝╚██████╗██║  ██║███████║    ██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚████║
+   ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
 <div align="center">
+
+# ⚡ ENGENHEIRO DE COMPUTAÇÃO ⚡
+### *[ HACKEAR O FUTURO | LINHA POR LINHA ]*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SISTEMAS+EMBARCADOS+%7C+IoT;INTELIG%C3%8ANCIA+ARTIFICIAL+%7C+ML;FULL+STACK+DEVELOPER;SEMPRE+CODIFICANDO+O+AMANH%C3%83...)](https://git.io/typing-svg)
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE_24%2F7-00ff00?style=for-the-badge&logo=statuspage&logoColor=white)
+![Level](https://img.shields.io/badge/LEVEL-ENGENHEIRO-ff00ff?style=for-the-badge)
+![Location](https://img.shields.io/badge/LOCATION-FORTALEZA%2C_CE-00ffff?style=for-the-badge)
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════╗
+║  >> INICIALIZANDO SISTEMA NEURAL...                                   ║
+║  >> CARREGANDO MATRIZ DE CONHECIMENTO...                              ║
+║  >> CONECTANDO COM REPOSITÓRIOS QUÂNTICOS...                          ║
+║  >> [████████████████████████████████████████] 100%                   ║
+║  >> ACESSO CONCEDIDO | BEM-VINDO AO MEU DOMÍNIO DIGITAL               ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🌐 TRANSMISSÃO DE DADOS PESSOAIS
+
+```python
+class LucasNathan:
+    def __init__(self):
+        self.nome = "Lucas Nathan de Moraes Gomes"
+        self.cargo = "Engenheiro de Computação"
+        self.universidade = "UNIFOR"
+        self.localizacao = "Fortaleza, CE - Brasil"
+        self.status = "SEMPRE_APRENDENDO"
+        
+    def especialidades(self):
+        return {
+            "hardware": ["STM32", "8051", "BeagleBone", "Arduino"],
+            "software": ["Python", "C++", "Java", "JavaScript"],
+            "ai": ["Machine Learning", "Computer Vision", "Meta-heurísticas"],
+            "web": ["Full Stack", "Node.js", "PHP", "MongoDB"]
+        }
+    
+    def missao(self):
+        return """
+        🎯 Construindo o futuro através da tecnologia
+        🤖 Transformando ideias em realidade digital
+        ⚡ Desbravando os limites da computação
+        """
+
+lucas = LucasNathan()
+lucas.missao()
+```
+
+> *"O código é a poesia da era digital. E eu escrevo em múltiplas linguagens."*
+
+---
+
+## 🔌 PROTOCOLOS DE COMUNICAÇÃO
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    CANAIS DE TRANSMISSÃO                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  📡 LINK NEURAL DIRETO:                                     │
+│  └─> lucasnathan.marc@gmail.com                            │
+│                                                             │
+│  📞 FREQUÊNCIA DE VOZ:                                      │
+│  └─> +55 (85) 98965-2582                                   │
+│                                                             │
+│  🌐 COORDENADAS DIGITAIS:                                   │
+│  └─> github.com/LucNath                                    │
+│  └─> linkedin.com/in/lucas-nathan-de-moraes-gomes          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+[![LinkedIn](https://img.shields.io/badge/NEURAL_LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nathan-de-moraes-gomes-a83418242/)
+[![Email](https://img.shields.io/badge/QUANTUM_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasnathan.marc@gmail.com)
+[![GitHub](https://img.shields.io/badge/CODE_VAULT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucNath)
+[![WhatsApp](https://img.shields.io/badge/INSTANT_MSG-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585989652582)
+
+</div>
+
+---
+
+## ⚡ ARSENAL TECNOLÓGICO
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔥 LINGUAGENS CORE
+
+```javascript
+const languages = {
+  master: ['Python', 'C/C++'],
+  advanced: ['Java', 'JavaScript'],
+  learning: ['TypeScript', 'PHP'],
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Computação;Desenvolvedor+Full+Stack;Entusiasta+de+IA+e+Sistemas+Embarcados;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
-
-</div>
-
-## 🎓 Sobre Mim
-
-🎯 Estudante de **Engenharia de Computação** na **UNIFOR** (Universidade de Fortaleza)  
-🤖 Apaixonado por **Inteligência Artificial**, **Sistemas Embarcados** e **Desenvolvimento Web**  
-💻 Desenvolvedor Full Stack com experiência em **Python**, **C/C++**, **Java** e **JavaScript**  
-🔬 Interesse em **Ciência de Dados**, **Microcontroladores** e **IoT**  
-📍 Fortaleza, CE - Brasil  
-💡 Proativo, curioso e sempre buscando evoluir tecnicamente
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nathan-de-moraes-gomes-a83418242/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasnathan.marc@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucNath)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585989652582)
-
-📧 **lucasnathan.marc@gmail.com** | 📞 **(85) 98965-2582**
-
-</div>
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-### 💻 Linguagens de Programação
-
-<div align="center">
+  nivel_poder: '∞',
+  anos_exp: '5+',
+  projetos: '50+'
+}
+```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
+</td>
+<td width="33%" valign="top">
 
-### 🌐 Desenvolvimento Web
+### 🤖 MATRIZ DE IA
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-### 🤖 IA & Data Science
-
-<div align="center">
+```python
+ai_modules = {
+  'vision': 'OpenCV',
+  'learning': 'Numpy/Pandas',
+  'optimization': 'GA/SA',
+  'neural': 'Deep Learning',
+  
+  status: 'ATIVO',
+  power: '████████░░ 80%'
+}
+```
 
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-</div>
+</td>
+<td width="33%" valign="top">
 
-### ⚙️ Ferramentas & Plataformas
+### 🔌 HARDWARE CYBER
+
+```cpp
+embedded_systems {
+  micro: {
+    8051,
+    STM32_ARM,
+    Arduino
+  },
+  
+  linux: BeagleBone,
+  iot: ONLINE,
+  rtos: ENABLED
+}
+```
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎮 PROJETOS DO SUBMUNDO DIGITAL
+
+### 🧬 [META-HEURÍSTICAS | OTIMIZAÇÃO EXTREMA](https://github.com/LucNath/Trabalho-AV3-Busca-Otimizacao-Inteligencia-Artificial)
+```
+┌─ MISSÃO CRÍTICA ─────────────────────────────────────┐
+│ Algoritmos genéticos aplicados ao Problema do       │
+│ Caixeiro Viajante. Simulated Annealing em ação.     │
+│                                                      │
+│ TECH: Python | Numpy | Matplotlib | Algoritmos GA   │
+│ DIFF: ████████████ HARD                             │
+│ STATUS: ✓ COMPLETO                                  │
+└──────────────────────────────────────────────────────┘
+```
+
+### 🧠 [ML FROM SCRATCH | CÓDIGO PURO](https://github.com/LucNath/Trabalho-AV1-Classificacao-Regressao-Inteligencia-Artificial)
+```
+┌─ OPERAÇÃO NEURAL ────────────────────────────────────┐
+│ Implementação zero-dependency de:                   │
+│ • MQO (Mínimos Quadrados)                           │
+│ • Naive Bayes                                       │
+│ • Gaussian Classifier                               │
+│                                                      │
+│ TECH: Python | Numpy | Validação Monte Carlo        │
+│ DIFF: █████████░░ MEDIUM-HARD                       │
+│ STATUS: ✓ OPERACIONAL                               │
+└──────────────────────────────────────────────────────┘
+```
+
+### 👁️ [VISÃO COMPUTACIONAL | OPENCV](https://github.com/LucNath/Processamento-Digital-de-Imagem)
+```
+┌─ PROTOCOLO VISUAL ───────────────────────────────────┐
+│ Sistema de processamento de imagem:                 │
+│ → Filtros espaciais e frequenciais                  │
+│ → Detecção de bordas e segmentação                  │
+│ → Transformadas e realce                            │
+│                                                      │
+│ TECH: Python | OpenCV | Numpy | Computer Vision     │
+│ DIFF: ███████░░░ MEDIUM                             │
+│ STATUS: ✓ ATIVO                                     │
+└──────────────────────────────────────────────────────┘
+```
+
+### 💻 [BEECROWD ARENA | +200 SOLUÇÕES](https://github.com/LucNath/Beecrowd-Solutions)
+```
+┌─ CAMPO DE BATALHA ALGORÍTMICO ───────────────────────┐
+│ Mais de 200 problemas resolvidos                    │
+│ Programação competitiva em múltiplas linguagens     │
+│                                                      │
+│ TECH: Python | C++ | Java | Algoritmos               │
+│ DIFF: ██████████ VARIADO                            │
+│ STATUS: ⚡ EM PROGRESSO                             │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎓 MÓDULOS ACADÊMICOS DESBLOQUEADOS
+
+<table>
+<tr>
+<td width="50%">
+
+```ascii
+╔══════════════════════════════════╗
+║   SISTEMAS EMBARCADOS [✓]       ║
+╠══════════════════════════════════╣
+║ • 8051 Architecture     [MASTER]║
+║ • STM32 Cortex ARM      [MASTER]║
+║ • BeagleBone Linux      [EXPERT]║
+║ • Real-Time Systems     [ACTIVE]║
+║ • IoT Development       [ACTIVE]║
+╚══════════════════════════════════╝
+```
+
+```ascii
+╔══════════════════════════════════╗
+║   INTELIGÊNCIA ARTIFICIAL [✓]   ║
+╠══════════════════════════════════╣
+║ • Machine Learning      [MASTER]║
+║ • Computer Vision       [EXPERT]║
+║ • Otimização            [EXPERT]║
+║ • Neural Networks       [STUDY] ║
+║ • Deep Learning         [STUDY] ║
+╚══════════════════════════════════╝
+```
+
+</td>
+<td width="50%">
+
+```ascii
+╔══════════════════════════════════╗
+║   ENGENHARIA SOFTWARE [✓]       ║
+╠══════════════════════════════════╣
+║ • SCRUM Methodology     [ACTIVE]║
+║ • Project Management    [EXPERT]║
+║ • Requirements Eng.     [EXPERT]║
+║ • Database Design       [MASTER]║
+║ • Full Stack Dev        [EXPERT]║
+╚══════════════════════════════════╝
+```
+
+```ascii
+╔══════════════════════════════════╗
+║   SISTEMAS AVANÇADOS [✓]        ║
+╠══════════════════════════════════╣
+║ • Operating Systems     [EXPERT]║
+║ • Parallel Computing    [ACTIVE]║
+║ • Computer Networks     [EXPERT]║
+║ • Distributed Systems   [STUDY] ║
+╚══════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 MÉTRICAS DO SISTEMA
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+```
+┌─ ANALYTICS DASHBOARD ──────────────────────────────────────┐
+│                                                             │
+│  LINHAS DE CÓDIGO ESCRITAS:        [████████░░] 100K+      │
+│  PROJETOS COMPLETADOS:             [██████████] 50+        │
+│  TECNOLOGIAS DOMINADAS:            [████████░░] 20+        │
+│  COMMITS ESTE ANO:                 [███████░░░] 500+       │
+│  CAFÉS CONSUMIDOS:                 [██████████] ∞          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=LucNath&show_icons=true&theme=chartreuse-dark&count_private=true&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=00ff41&bg_color=0d1117">
+
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=chartreuse-dark&border_color=00ff41&title_color=00ff41&text_color=00ff41&bg_color=0d1117">
 
 </div>
 
 ---
 
-## 💼 Áreas de Especialização
+## 🔮 SKILLS TREE
 
-```python
-expertise = {
-    "Sistemas Embarcados": {
-        "Microcontroladores": ["8051", "STM32 (Cortex ARM)"],
-        "Plataformas": ["BeagleBone Black (Linux Debian)", "Arduino"],
-        "Aplicações": ["Sistemas com restrição de tempo", "IoT"]
-    },
-    
-    "Inteligência Artificial": {
-        "Machine Learning": ["Classificação", "Regressão", "Clustering"],
-        "Processamento de Imagens": ["OpenCV", "Filtros", "Segmentação"],
-        "Otimização": ["Algoritmos Genéticos", "Meta-heurísticas"]
-    },
-    
-    "Desenvolvimento Web": {
-        "Frontend": ["HTML", "CSS", "JavaScript", "TypeScript"],
-        "Backend": ["Node.js", "PHP", "Java"],
-        "Banco de Dados": ["MySQL", "MongoDB"]
-    },
-    
-    "Engenharia de Software": {
-        "Metodologias": ["SCRUM", "Levantamento de Requisitos"],
-        "Gestão": ["ProjectLibre", "Viabilidade Econômica"],
-        "Projetos": ["SO", "Redes Convergentes", "Computação Paralela"]
-    }
+<div align="center">
+
+```
+                         ┌─────────────┐
+                         │   LUCAS     │
+                         │   NATHAN    │
+                         └──────┬──────┘
+                                │
+                ┌───────────────┼───────────────┐
+                │               │               │
+           ┌────▼────┐    ┌────▼────┐    ┌────▼────┐
+           │ BACKEND │    │EMBEDDED │    │    AI   │
+           └────┬────┘    └────┬────┘    └────┬────┘
+                │               │               │
+        ┌───────┼──────┐   ┌───┼────┐   ┌──────┼──────┐
+        │       │      │   │   │    │   │      │      │
+     Node.js  Java   PHP  STM32 IoT 8051 CV  ML  Opt
+```
+
+**🎯 DOMÍNIOS PRIMÁRIOS**
+```
+Hardware Engineering   ██████████████████░░  90%
+Software Development   ████████████████░░░░  80%
+Artificial Intelligence██████████████░░░░░░  70%
+Full Stack Web Dev     █████████████░░░░░░░  65%
+```
+
+</div>
+
+---
+
+## ⚡ TERMINAL DE COMANDOS
+
+```bash
+# Clone meu cérebro digital
+git clone https://github.com/LucNath/[projeto-desejado].git
+
+# Entre na matrix
+cd [projeto]
+
+# Instale as dependências quânticas
+npm install --save-universe
+
+# Execute o futuro
+npm run hack:reality
+
+# OUTPUT:
+# ⚡ Sistema inicializado
+# 🔥 Neural networks ativadas
+# 🚀 Pronto para revolucionar a tecnologia
+```
+
+---
+
+## 🌌 PRÓXIMAS MISSÕES
+
+```javascript
+const futuro = {
+  aprendendo: [
+    '🧠 Deep Learning Avançado',
+    '☁️ Cloud Computing (AWS/Azure)',
+    '🐳 DevOps & Docker/Kubernetes',
+    '⚡ Edge Computing & 5G IoT'
+  ],
+  
+  objetivos_2025: [
+    '🎯 Publicar artigo científico em IA',
+    '🚀 Lançar produto IoT no mercado',
+    '💼 Contribuir em projetos open source',
+    '🏆 Certificações em Cloud & AI'
+  ],
+  
+  motto: 'NUNCA PARE DE APRENDER | SEMPRE EVOLUA'
 }
 ```
 
 ---
 
-## 🔥 Projetos em Destaque
-
-### 🧬 [Meta-heurísticas e Otimização](https://github.com/LucNath/Trabalho-AV3-Busca-Otimizacao-Inteligencia-Artificial)
-Implementação de algoritmos de otimização aplicados ao Problema do Caixeiro Viajante.  
-**Tech Stack:** `Python` `Numpy` `Matplotlib` `Algoritmos Genéticos` `Simulated Annealing`
-
-### 🤖 [Classificação e Regressão - Numpy](https://github.com/LucNath/Trabalho-AV1-Classificacao-Regressao-Inteligencia-Artificial)
-Modelos de ML implementados do zero: MQO, Naive Bayes, Gauss Tradicional e Regularizado.  
-**Tech Stack:** `Python` `Numpy` `Machine Learning` `Validação Monte Carlo`
-
-### 🖼️ [Processamento Digital de Imagem](https://github.com/LucNath/Processamento-Digital-de-Imagem)
-Algoritmos de PDI: filtros, transformadas, segmentação e detecção de bordas.  
-**Tech Stack:** `Python` `OpenCV` `Numpy` `Computer Vision`
-
-### 🐝 [Beecrowd Solutions](https://github.com/LucNath/Beecrowd-Solutions)
-Soluções para problemas de programação competitiva e algoritmos.  
-**Tech Stack:** `Python` `C++` `Java` `Algoritmos` `Estruturas de Dados`
-
----
-
-## 🎓 Projetos Acadêmicos
-
-### 🖧 Sistemas Embarcados
-- ⚡ **Microcontroladores 8051** - Desenvolvimento de sistemas básicos
-- 🚀 **STM32 (Cortex ARM)** - Sistemas com restrição de tempo real
-- 🐧 **BeagleBone Black** - Desenvolvimento em Linux Debian embarcado
-
-### 💻 Engenharia de Software
-- 📋 **Gestão de Projetos** - SCRUM e ProjectLibre
-- 💰 **Viabilidade Econômica** - Análise de custos e ROI
-- 📝 **Levantamento de Requisitos** - Documentação técnica
-
-### ⚙️ Computação Avançada
-- 🖥️ **Sistemas Operacionais** - Conceitos e implementação
-- 🔄 **Computação Paralela e Concorrente** - Threads e sincronização
-- 🌐 **Redes Convergentes** - Integração de sistemas de comunicação
-
----
-
-## 📊 Minhas Estatísticas no GitHub
+## 🎭 MODO DIVERSÃO
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=LucNath&show_icons=true&theme=tokyonight&count_private=true">
 
-  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=tokyonight">
+```
+    ⚡ EASTER EGG ENCONTRADO ⚡
+    
+    while(alive) {
+        eat();
+        code();
+        sleep();
+        repeat();
+    }
+    
+    // Cafés consumidos: OVERFLOW ERROR
+```
+
+```
+     /\_/\
+    ( o.o )  < "Seu código está bugado, humano"
+     > ^ <
+    /|   |\
+   (_|   |_)
+```
+
+**ESTATÍSTICAS OCULTAS:**
+- ☕ Cafés por dia: `Math.random() * 10`
+- 🐛 Bugs criados: `∞`
+- 🔧 Bugs resolvidos: `∞ + 1`
+- 😴 Horas de sono: `404 NOT FOUND`
 
 </div>
 
 ---
 
-## 💡 Interesses & Skills
-
 <div align="center">
 
-**🔬 Pesquisa & Desenvolvimento**  
-Inteligência Artificial • Sistemas Embarcados • IoT
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║  "O FUTURO PERTENCE ÀQUELES QUE PROGRAMAM O PRESENTE"        ║
+║                                                               ║
+║  - Lucas Nathan, Engenheiro do Amanhã                        ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-**💻 Desenvolvimento**  
-Full Stack • Machine Learning • Microcontroladores
+![Visitor Count](https://profile-counter.glitch.me/LucNath/count.svg)
 
-**📚 Sempre Aprendendo**  
-Deep Learning • Cloud Computing • DevOps
+⭐ **SE VOCÊ CHEGOU ATÉ AQUI, VOCÊ É UM(A) VERDADEIRO(A) HACKER!** ⭐
+
+```ascii
+┌─────────────────────────────────────────┐
+│  OBRIGADO POR VISITAR MEU REPOSITÓRIO   │
+│  VAMOS CONSTRUIR O FUTURO JUNTOS! 🚀    │
+└─────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 🔥 Animação
+<div align="center">
+  
+**💻 FEITO COM** `<código/>` **E** `☕ CAFÉ` **POR LUCAS NATHAN**
 
-<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="100%">
+![Matrix](https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif)
+
+</div>
