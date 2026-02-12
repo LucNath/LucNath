@@ -84,7 +84,7 @@
 
 ---
 
-<div>
+<div align="center">
 
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
@@ -175,8 +175,10 @@ Soluções para problemas de programação competitiva e algoritmos.
 </div>
 
 ### 🔥 Streak Stats
+<div align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucNath&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucNath&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+</div>
 
 ---
 
