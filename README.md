@@ -84,13 +84,11 @@
 
 ---
 
-<div align="center">
+<div>
 
-**Feito com ❤️ e muito ☕ por Lucas Nathan**
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-*Última atualização: Fevereiro 2025*
 
 </div>
 
