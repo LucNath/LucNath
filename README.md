@@ -176,7 +176,9 @@ Soluções para problemas de programação competitiva e algoritmos.
 
 ### 🔥 Streak Stats
 
- <img ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucNath&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucNath&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</p>
 
 ---
 
