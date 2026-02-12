@@ -198,40 +198,6 @@ Deep Learning • Cloud Computing • DevOps
 
 ---
 
-## 📈 Atividade no GitHub
+## 🔥 Animação
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 📊 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/LucNath/count.svg)
-
----
-
-### ⚡ "A tecnologia move o mundo. A curiosidade move a tecnologia."
-
-**Obrigado pela visita! Vamos construir o futuro juntos! 🚀**
-
-[![GitHub followers](https://img.shields.io/github/followers/LucNath?style=social)](https://github.com/LucNath)
-[![GitHub stars](https://img.shields.io/github/stars/LucNath?style=social)](https://github.com/LucNath)
-
-</div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/LucNath/LucNath/output/github-contribution-grid-snake.svg)
-
-</div>
+<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="100%">
