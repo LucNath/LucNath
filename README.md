@@ -158,26 +158,13 @@ Soluções para problemas de programação competitiva e algoritmos.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucNath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucNath&theme=tokyonight&hide_border=true)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucNath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucNath&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
-
-## 🎯 Objetivos 2026
-
-- [x] Dominar fundamentos de Machine Learning e Sistemas Embarcados
-- [x] Desenvolver projetos com STM32 e ARM
-- [ ] Contribuir em projetos Open Source
-- [ ] Resolver 500+ problemas de programação competitiva
-- [ ] Desenvolver projeto IoT completo
-- [ ] Publicar artigo técnico sobre IA ou Sistemas Embarcados
-- [ ] Conquistar estágio/posição em empresa de tecnologia
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucNath&theme=tokyonight" alt="LucNath's streak"/>
+</div>
 
 ---
 
