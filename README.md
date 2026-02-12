@@ -155,15 +155,13 @@ Soluções para problemas de programação competitiva e algoritmos.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucNath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucNath&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=LucNath&show_icons=true&theme=tokyonight&count_private=true">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucNath&theme=tokyonight" alt="LucNath's streak"/>
+  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=tokyonight">
+
 </div>
 
 ---
