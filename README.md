@@ -1,147 +1,157 @@
-```
-██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗    ███╗   ██╗ █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ██╗
-██║     ██║   ██║██╔════╝██╔══██╗██╔════╝    ████╗  ██║██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗  ██║
-██║     ██║   ██║██║     ███████║███████╗    ██╔██╗ ██║███████║   ██║   ███████║███████║██╔██╗ ██║
-██║     ██║   ██║██║     ██╔══██║╚════██║    ██║╚██╗██║██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╗██║
-███████╗╚██████╔╝╚██████╗██║  ██║███████║    ██║ ╚████║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚████║
-╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
 <div align="center">
 
-# 🎮 PLAYER ONE: LUCAS NATHAN 🎮
+# 📊 LUCAS NATHAN | DEVELOPER ANALYTICS DASHBOARD
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                          ▓
-▓    ██████╗ ██╗      █████╗ ██╗   ██╗███████╗██████╗    ▓
-▓    ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗   ▓
-▓    ██████╔╝██║     ███████║ ╚████╔╝ █████╗  ██████╔╝   ▓
-▓    ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗   ▓
-▓    ██║     ███████╗██║  ██║   ██║   ███████╗██║  ██║   ▓
-▓    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝   ▓
-▓                                                          ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=ENGENHEIRO+DE+COMPUTACAO;DESENVOLVEDOR+FULL+STACK;MESTRE+EM+IA+E+SISTEMAS+EMBARCADOS;PRESS+START+TO+CONTINUE...)](https://git.io/typing-svg)
-
-![Level](https://img.shields.io/badge/LEVEL-25-00ff00?style=for-the-badge&logo=&logoColor=white)
-![Class](https://img.shields.io/badge/CLASS-ENGINEER-ff0000?style=for-the-badge)
-![XP](https://img.shields.io/badge/XP-999999%2F1000000-yellow?style=for-the-badge)
-![HP](https://img.shields.io/badge/HP-∞%2F∞-red?style=for-the-badge)
-![MP](https://img.shields.io/badge/MP-9999%2F9999-blue?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/DASHBOARD-ONLINE-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge)
+![Updated](https://img.shields.io/badge/LAST_UPDATE-FEB_2025-blue?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🕹️ GAME STATUS
+## 📈 EXECUTIVE SUMMARY
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/student-male.png" width="60"/>
+<h3>🎓 PERFIL</h3>
+<b>Engenheiro de Computação</b><br/>
+UNIFOR - Fortaleza, CE
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+<h3>💻 EXPERIÊNCIA</h3>
+<b>5+ Anos</b><br/>
+50+ Projetos Completados
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60"/>
+<h3>🧠 ESPECIALIZAÇÃO</h3>
+<b>IA & Sistemas Embarcados</b><br/>
+Full Stack Development
+</td>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="60"/>
+<h3>📊 GITHUB</h3>
+<b>500+ Commits/ano</b><br/>
+200+ Soluções Beecrowd
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 KEY PERFORMANCE INDICATORS (KPIs)
+
+<div align="center">
+
+| KPI | Métrica | Target | Atual | Performance |
+|:---:|:--------|:------:|:-----:|:-----------:|
+| 💻 | Projetos Completados | 50 | **55** | 🟢 110% |
+| 🎯 | Taxa de Conclusão | 90% | **95%** | 🟢 106% |
+| 📚 | Tecnologias Dominadas | 15 | **20+** | 🟢 133% |
+| ⭐ | GitHub Stars | 20 | **30+** | 🟢 150% |
+| 🔥 | Commit Streak (dias) | 30 | **45+** | 🟢 150% |
+| 🧠 | Certificações | 2 | **3** | 🟢 150% |
+
+**📈 Overall Performance Score: 125%** ✅
+
+</div>
+
+---
+
+## 💼 SKILLS PROFICIENCY DASHBOARD
+
+### Programming Languages
+
+<div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        PLAYER STATS                             │
+│                    LANGUAGE PROFICIENCY                         │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  👤 NOME:        Lucas Nathan de Moraes Gomes                  │
-│  🎓 CLASSE:      Engenheiro de Computação                      │
-│  🏫 GUILDA:      UNIFOR - Universidade de Fortaleza            │
-│  📍 REGIÃO:      Fortaleza, CE - Brasil                        │
-│  ⭐ LEVEL:       25                                             │
-│  💪 FORÇA:       █████████░ 90/100                             │
-│  🧠 INT:         ██████████ 100/100                            │
-│  🎯 DES:         ████████░░ 80/100                             │
-│  🛡️ DEF:         ███████░░░ 70/100                             │
-│  ⚡ VEL:         ████████░░ 85/100                             │
-│  ❤️ VIT:         ████████░░ 85/100                             │
+│  Python       ████████████████████ 95%  |  Expert    | 5 years │
+│  C/C++        ██████████████████░░ 90%  |  Expert    | 4 years │
+│  Java         █████████████████░░░ 85%  |  Advanced  | 3 years │
+│  JavaScript   ████████████████░░░░ 80%  |  Advanced  | 3 years │
+│  TypeScript   ██████████████░░░░░░ 70%  |  Inter.    | 2 years │
+│  PHP          ████████████░░░░░░░░ 60%  |  Inter.    | 2 years │
+│                                                                 │
+│  📊 Average Proficiency: 80%                                    │
+│  📈 Yearly Growth Rate: +15%                                    │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 🎯 SKILL TREE
-
-<div align="center">
-
-```
-                         [LUCAS NATHAN]
-                               │
-                ┌──────────────┼──────────────┐
-                │              │              │
-           [BACKEND]      [EMBEDDED]       [AI/ML]
-            LVL 80         LVL 90          LVL 85
-                │              │              │
-        ┌───────┼──────┐   ┌───┼────┐    ┌───┼───┐
-        │       │      │   │   │    │    │   │   │
-     Node.js  Java  PHP  STM32 IoT 8051  CV  ML Opt
-      LVL85  LVL80 LVL70 LVL95 LVL88 LVL90 LVL85 LVL82
-```
-
 </div>
 
-### 💻 LINGUAGENS DOMINADAS
+### Technical Stack Distribution
 
 <table>
 <tr>
 <td width="50%">
 
+#### 🔧 Backend Technologies
 ```
-╔══════════════════════════════════╗
-║     PROGRAMMING LANGUAGES        ║
-╠══════════════════════════════════╣
-║                                  ║
-║  [🐍] PYTHON                     ║
-║  ████████████████████ 95%        ║
-║  • Skill Points: 950/1000        ║
-║  • Rank: S+                      ║
-║                                  ║
-║  [⚙️] C/C++                       ║
-║  ██████████████████░░ 90%        ║
-║  • Skill Points: 900/1000        ║
-║  • Rank: S                       ║
-║                                  ║
-║  [☕] JAVA                        ║
-║  █████████████████░░░ 85%        ║
-║  • Skill Points: 850/1000        ║
-║  • Rank: A+                      ║
-║                                  ║
-║  [📜] JAVASCRIPT                 ║
-║  ████████████████░░░░ 80%        ║
-║  • Skill Points: 800/1000        ║
-║  • Rank: A                       ║
-║                                  ║
-╚══════════════════════════════════╝
+Node.js       ████████████████░░ 80%
+Python        ███████████████████ 95%
+Java          █████████████████░░ 85%
+PHP           ████████████░░░░░░░ 60%
 ```
+
+**Expertise Level:** 🟢 High  
+**Market Demand:** 🟢 Very High  
+**Project Usage:** 40% dos projetos
 
 </td>
 <td width="50%">
 
+#### 🎨 Frontend Technologies
 ```
-╔══════════════════════════════════╗
-║        SPECIAL ABILITIES         ║
-╠══════════════════════════════════╣
-║                                  ║
-║  🤖 AI MASTERY                   ║
-║  ██████████████████░░ 90%        ║
-║  └─ Machine Learning [UNLOCKED]  ║
-║  └─ Computer Vision  [UNLOCKED]  ║
-║  └─ Deep Learning    [TRAINING]  ║
-║                                  ║
-║  🔌 EMBEDDED SYSTEMS             ║
-║  ███████████████████░ 95%        ║
-║  └─ 8051 Assembly    [MASTER]    ║
-║  └─ STM32 ARM        [MASTER]    ║
-║  └─ Linux Embedded   [EXPERT]    ║
-║                                  ║
-║  🌐 WEB DEVELOPMENT              ║
-║  ████████████████░░░░ 80%        ║
-║  └─ Full Stack       [UNLOCKED]  ║
-║  └─ REST APIs        [UNLOCKED]  ║
-║  └─ React.js         [TRAINING]  ║
-║                                  ║
-╚══════════════════════════════════╝
+HTML/CSS      ████████████████░░ 80%
+JavaScript    ████████████████░░ 80%
+TypeScript    ██████████████░░░░ 70%
+React.js      ████████░░░░░░░░░░ 40%
 ```
+
+**Expertise Level:** 🟡 Medium-High  
+**Market Demand:** 🟢 Very High  
+**Project Usage:** 25% dos projetos
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🤖 AI/ML Technologies
+```
+NumPy         ███████████████████ 95%
+Pandas        ██████████████████░ 90%
+OpenCV        █████████████████░░ 85%
+Matplotlib    ████████████████░░░ 80%
+```
+
+**Expertise Level:** 🟢 High  
+**Innovation Score:** 🟢 9.5/10  
+**Project Usage:** 35% dos projetos
+
+</td>
+<td width="50%">
+
+#### ⚙️ Embedded Systems
+```
+8051 (ASM)    ███████████████████ 95%
+STM32 (ARM)   ███████████████████ 95%
+Arduino       ██████████████████░ 90%
+BeagleBone    █████████████████░░ 85%
+```
+
+**Expertise Level:** 🟢 Expert  
+**Specialization:** 🟢 Core Competency  
+**Project Usage:** 30% dos projetos
 
 </td>
 </tr>
@@ -149,274 +159,155 @@
 
 ---
 
-## 🏆 CONQUISTAS DESBLOQUEADAS
+## 📊 PROJECT PORTFOLIO ANALYTICS
 
-<div align="center">
-
-| 🏅 Conquista | Descrição | Status | Pontos |
-|:------------|:----------|:------:|:------:|
-| 🎓 **ACADEMIC WARRIOR** | Graduando em Engenharia de Computação | ✅ | 1000 |
-| 💻 **CODE MASTER** | Mais de 50 projetos completados | ✅ | 500 |
-| 🐍 **PYTHON WIZARD** | Domínio completo de Python | ✅ | 800 |
-| 🤖 **AI PIONEER** | Implementou ML do zero | ✅ | 750 |
-| 🔌 **HARDWARE HACKER** | Projetos com 5+ microcontroladores | ✅ | 900 |
-| 🎯 **PROBLEM SOLVER** | +200 problemas no Beecrowd | ✅ | 600 |
-| 📚 **KNOWLEDGE SEEKER** | Sempre estudando novas techs | ✅ | 300 |
-| 🌟 **TEAM PLAYER** | Trabalho em equipe SCRUM | ✅ | 400 |
-| 🔥 **STREAK MASTER** | 30 dias consecutivos codando | ✅ | 200 |
-| 💡 **INNOVATOR** | Criou soluções inovadoras | ✅ | 550 |
-
-**TOTAL DE PONTOS:** `6,000 XP` 🎮
-
-</div>
-
----
-
-## 🎮 MISSÕES PRINCIPAIS
-
-### 🔥 MISSÕES ATIVAS
-
-<details open>
-<summary>⚔️ <b>QUEST 1: Meta-heurísticas Boss Fight</b> - CONCLUÍDA ✅</summary>
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  MISSÃO: Derrotar o Problema do Caixeiro Viajante      │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Objetivo: Implementar algoritmos de otimização        │
-│  Recompensa: +750 XP, Skill "Genetic Algorithm"        │
-│  Dificuldade: ★★★★★                                    │
-│                                                         │
-│  Inimigos Derrotados:                                  │
-│  ☠️ TSP Problem          [DEFEATED]                    │
-│  ☠️ Local Optima Trap    [DEFEATED]                    │
-│  ☠️ Computational Cost   [DEFEATED]                    │
-│                                                         │
-│  Itens Obtidos:                                        │
-│  • Algoritmo Genético (Lendário)                       │
-│  • Simulated Annealing (Épico)                         │
-│  • Skill de Otimização +20                             │
-│                                                         │
-│  STATUS: ✅ MISSÃO COMPLETA                            │
-│  LINK: github.com/LucNath/Trabalho-AV3-Busca...       │
-└─────────────────────────────────────────────────────────┘
-```
-
-</details>
-
-<details>
-<summary>🧠 <b>QUEST 2: Machine Learning Dungeon</b> - CONCLUÍDA ✅</summary>
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  MISSÃO: Criar modelos ML sem frameworks               │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Objetivo: Implementação pura em Numpy                 │
-│  Recompensa: +800 XP, Title "ML Master"                │
-│  Dificuldade: ★★★★☆                                    │
-│                                                         │
-│  Chefes Derrotados:                                    │
-│  👹 Naive Bayes Boss     [DEFEATED]                    │
-│  👹 Gaussian Guardian    [DEFEATED]                    │
-│  👹 Regression Dragon    [DEFEATED]                    │
-│                                                         │
-│  Tesouros Coletados:                                   │
-│  • MQO Algorithm (Raro)                                │
-│  • Cross-Validation Scroll                             │
-│  • Understanding of Math +50                           │
-│                                                         │
-│  STATUS: ✅ MISSÃO COMPLETA                            │
-│  LINK: github.com/LucNath/Trabalho-AV1-Classifi...    │
-└─────────────────────────────────────────────────────────┘
-```
-
-</details>
-
-<details>
-<summary>👁️ <b>QUEST 3: Computer Vision Arena</b> - CONCLUÍDA ✅</summary>
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  MISSÃO: Dominar processamento de imagens              │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Objetivo: Implementar técnicas de PDI                 │
-│  Recompensa: +700 XP, Skill "Eagle Eye"                │
-│  Dificuldade: ★★★★☆                                    │
-│                                                         │
-│  Minions Derrotados:                                   │
-│  👾 Noise Monster        [DEFEATED]                    │
-│  👾 Blur Demon           [DEFEATED]                    │
-│  👾 Edge Phantom         [DEFEATED]                    │
-│  👾 Segmentation Beast   [DEFEATED]                    │
-│                                                         │
-│  Magias Aprendidas:                                    │
-│  • Gaussian Filter (Comum)                             │
-│  • Canny Edge Detection (Raro)                         │
-│  • Fourier Transform (Épico)                           │
-│  • Watershed Segmentation (Lendário)                   │
-│                                                         │
-│  STATUS: ✅ MISSÃO COMPLETA                            │
-│  LINK: github.com/LucNath/Processamento-Digital...    │
-└─────────────────────────────────────────────────────────┘
-```
-
-</details>
-
-<details>
-<summary>💻 <b>SIDE QUEST: Beecrowd Infinite Tower</b> - EM PROGRESSO ⚡</summary>
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  MISSÃO: Subir a torre infinita de problemas           │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Objetivo: Resolver +200 problemas                     │
-│  Recompensa: Continuous XP                             │
-│  Dificuldade: ★★★☆☆ (Variável)                        │
-│                                                         │
-│  Progresso da Torre:                                   │
-│  Floor 200+: [████████████████████░] 200/∞             │
-│                                                         │
-│  Andares Conquistados:                                 │
-│  🗼 Floor 1-100:   INICIANTE    [CLEARED] ✅           │
-│  🗼 Floor 101-150: MATEMÁTICA   [CLEARED] ✅           │
-│  🗼 Floor 151-180: ESTRUTURAS   [CLEARED] ✅           │
-│  🗼 Floor 181-200: ALGORITMOS   [CLEARED] ✅           │
-│  🗼 Floor 201+:    AVANÇADO     [IN PROGRESS] ⚡       │
-│                                                         │
-│  Boss do Andar:                                        │
-│  👑 Dynamic Programming Emperor [NEXT]                 │
-│                                                         │
-│  STATUS: ⚡ EM ANDAMENTO                               │
-│  LINK: github.com/LucNath/Beecrowd-Solutions          │
-└─────────────────────────────────────────────────────────┘
-```
-
-</details>
-
----
-
-## 🗺️ MAPA DE HABILIDADES
+### Project Breakdown by Category
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║                         TECH SKILL MAP                            ║
-╠═══════════════════════════════════════════════════════════════════╣
-║                                                                   ║
-║  🔧 FERRAMENTAS & EQUIPAMENTOS                                    ║
-║  ────────────────────────────────────────────────────────────     ║
-║                                                                   ║
-║  [⚔️] ARMAS PRINCIPAIS:                                           ║
-║  • Python 3.x          [LENDÁRIO]  ★★★★★                         ║
-║  • C/C++               [LENDÁRIO]  ★★★★★                         ║
-║  • VS Code             [ÉPICO]     ★★★★☆                         ║
-║  • Git/GitHub          [ÉPICO]     ★★★★☆                         ║
-║                                                                   ║
-║  [🛡️] DEFESAS:                                                    ║
-║  • Linux OS            [ÉPICO]     ★★★★☆                         ║
-║  • Unit Testing        [RARO]      ★★★☆☆                         ║
-║  • Code Review         [RARO]      ★★★☆☆                         ║
-║                                                                   ║
-║  [💎] ITENS ESPECIAIS:                                            ║
-║  • Arduino IDE         [ÉPICO]     ★★★★☆                         ║
-║  • STM32CubeIDE        [ÉPICO]     ★★★★☆                         ║
-║  • OpenCV Library      [RARO]      ★★★★☆                         ║
-║  • Numpy/Pandas        [RARO]      ★★★★☆                         ║
-║                                                                   ║
-║  [🎒] INVENTÁRIO:                                                 ║
-║  • MySQL Database      [COMUM]     ★★★☆☆                         ║
-║  • MongoDB             [COMUM]     ★★★☆☆                         ║
-║  • Node.js             [RARO]      ★★★☆☆                         ║
-║  • Docker              [COMUM]     ★★☆☆☆ [TRAINING]              ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║              PROJECT DISTRIBUTION (55 Total)               ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  Category                 Count    %      Chart           ║
+║  ─────────────────────────────────────────────────────    ║
+║  🤖 AI/ML                  15     27%   ████████░░        ║
+║  🔌 Embedded Systems       12     22%   ███████░░░        ║
+║  🌐 Web Development        10     18%   ██████░░░░        ║
+║  📚 Academic Projects      10     18%   ██████░░░░        ║
+║  💻 Algorithms             8      15%   █████░░░░░        ║
+║                                                            ║
+║  📈 Growth Rate (YoY): +25%                                ║
+║  🎯 Completion Rate: 95%                                   ║
+║  ⭐ Average Quality Score: 4.5/5                           ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
-
-## 🎪 MINI-GAMES & PROJETOS SECUNDÁRIOS
-
-### 🎨 PROJETOS ACADÊMICOS
+### Top Projects Performance
 
 <table>
 <tr>
-<td width="33%">
+<th>Rank</th>
+<th>Projeto</th>
+<th>Categoria</th>
+<th>Complexidade</th>
+<th>Impact Score</th>
+<th>Status</th>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><b>Meta-heurísticas & Otimização</b></td>
+<td>🤖 AI/ML</td>
+<td>⭐⭐⭐⭐⭐</td>
+<td>95/100</td>
+<td>✅ Complete</td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td><b>ML from Scratch (Numpy)</b></td>
+<td>🤖 AI/ML</td>
+<td>⭐⭐⭐⭐⭐</td>
+<td>92/100</td>
+<td>✅ Complete</td>
+</tr>
+<tr>
+<td align="center">🥉</td>
+<td><b>Computer Vision (OpenCV)</b></td>
+<td>🤖 AI/ML</td>
+<td>⭐⭐⭐⭐</td>
+<td>88/100</td>
+<td>✅ Complete</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td><b>STM32 RTOS Projects</b></td>
+<td>🔌 Embedded</td>
+<td>⭐⭐⭐⭐⭐</td>
+<td>90/100</td>
+<td>✅ Complete</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td><b>Beecrowd Solutions (200+)</b></td>
+<td>💻 Algorithms</td>
+<td>⭐⭐⭐⭐</td>
+<td>85/100</td>
+<td>🔄 Ongoing</td>
+</tr>
+</table>
+
+---
+
+## 📈 SKILL DEVELOPMENT TIMELINE
+
+<div align="center">
 
 ```
-┌──────────────────┐
-│  🔌 EMBEDDED     │
-│     SYSTEMS      │
-├──────────────────┤
-│                  │
-│  8051 Projects   │
-│  Rating: ★★★★★  │
-│  XP: +500        │
-│                  │
-│  STM32 RTOS      │
-│  Rating: ★★★★★  │
-│  XP: +700        │
-│                  │
-│  BeagleBone      │
-│  Rating: ★★★★☆  │
-│  XP: +600        │
-│                  │
-└──────────────────┘
+2020          2021          2022          2023          2024          2025
+ │             │             │             │             │             │
+ │ Python      │ C/C++       │ STM32       │ Machine     │ Deep        │ Cloud
+ │ Basics      │ Advanced    │ RTOS        │ Learning    │ Learning    │ Computing
+ │             │             │             │             │             │
+ │ Arduino     │ Java        │ Computer    │ Full Stack  │ Docker      │ DevOps
+ │             │ OOP         │ Vision      │ Dev         │ K8s         │ Advanced
+ │             │             │             │             │             │
+ ▼─────────────▼─────────────▼─────────────▼─────────────▼─────────────▼
+ Beginner      Intermediate  Advanced      Expert        Master        Specialist
 ```
+
+**Skill Progression Rate:** +20% year over year  
+**Learning Velocity:** 🟢 High  
+**Adaptability Score:** 9/10
+
+</div>
+
+---
+
+## 💰 MARKET VALUE ANALYSIS
+
+### Technical Skills Market Demand
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔥 High Demand Skills (Owned)
+```
+┌──────────────────────────────────┐
+│ Skill          Market   Salary   │
+│                Demand   Impact   │
+├──────────────────────────────────┤
+│ Python         🔴🔴🔴   +35%     │
+│ Machine Learning 🔴🔴🔴 +40%     │
+│ Cloud (AWS)    🔴🔴🔴   +38%     │
+│ Docker/K8s     🔴🔴🔴   +32%     │
+│ React.js       🔴🔴🔴   +30%     │
+│ Node.js        🔴🔴🔴   +28%     │
+└──────────────────────────────────┘
+```
+**Avg. Salary Premium:** +34%
 
 </td>
-<td width="33%">
+<td width="50%">
 
+#### 📊 Skill Investment ROI
 ```
-┌──────────────────┐
-│  📐 SOFTWARE     │
-│   ENGINEERING    │
-├──────────────────┤
-│                  │
-│  SCRUM Master    │
-│  Rating: ★★★★☆  │
-│  XP: +400        │
-│                  │
-│  ProjectLibre    │
-│  Rating: ★★★☆☆  │
-│  XP: +300        │
-│                  │
-│  UML Diagrams    │
-│  Rating: ★★★★☆  │
-│  XP: +350        │
-│                  │
-└──────────────────┘
+┌──────────────────────────────────┐
+│ Skill Category    ROI    Priority│
+├──────────────────────────────────┤
+│ AI/ML             ████  🔴 HIGH  │
+│ Cloud Computing   ████  🔴 HIGH  │
+│ DevOps            ███░  🟡 MED   │
+│ Full Stack        ████  🔴 HIGH  │
+│ Embedded Systems  ███░  🟡 MED   │
+│ Mobile Dev        ██░░  🟢 LOW   │
+└──────────────────────────────────┘
 ```
-
-</td>
-<td width="33%">
-
-```
-┌──────────────────┐
-│  ⚙️ ADVANCED     │
-│     SYSTEMS      │
-├──────────────────┤
-│                  │
-│  OS Concepts     │
-│  Rating: ★★★★☆  │
-│  XP: +450        │
-│                  │
-│  Parallel Comp   │
-│  Rating: ★★★★☆  │
-│  XP: +500        │
-│                  │
-│  Networks        │
-│  Rating: ★★★★☆  │
-│  XP: +400        │
-│                  │
-└──────────────────┘
-```
+**Total Portfolio Value:** 🟢 Excellent
 
 </td>
 </tr>
@@ -424,288 +315,290 @@
 
 ---
 
-## 📊 ESTATÍSTICAS DE COMBATE (GitHub Stats)
+## 📊 GITHUB PERFORMANCE METRICS
 
 <div align="center">
+
+### Repository Statistics
+
+| Métrica | Valor | Tendência | Benchmark |
+|:--------|:-----:|:---------:|:---------:|
+| Total Repositories | 50+ | 📈 +15% | 🟢 Above Avg |
+| Public Repos | 45+ | 📈 +12% | 🟢 Excellent |
+| Stars Received | 30+ | 📈 +20% | 🟢 Growing |
+| Forks | 10+ | 📈 +10% | 🟢 Good |
+| Commits (2024) | 500+ | 📈 +25% | 🟢 High Activity |
+| Contrib. Streak | 45+ days | 📈 +50% | 🟢 Consistent |
+
+### Activity Heatmap
+
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=LucNath&show_icons=true&theme=vue&count_private=true&hide_border=true&bg_color=ffffff&title_color=2c3e50&icon_color=42b983&text_color=2c3e50"/>
+
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=vue&hide_border=true&bg_color=ffffff&title_color=2c3e50&text_color=2c3e50"/>
+
+### Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucNath&theme=vue&hide_border=true&background=ffffff&ring=42b983&fire=42b983&currStreakLabel=2c3e50" alt="GitHub Streak"/>
+
+### Detailed Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucNath&theme=vue&hide_border=true&bg_color=ffffff&color=2c3e50&line=42b983&point=2c3e50" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 🎯 2025 OBJECTIVES & TARGETS
+
+### Q1 2025 (Jan - Mar)
+
+<table>
+<tr>
+<th width="40%">Objetivo</th>
+<th width="15%">Target</th>
+<th width="15%">Atual</th>
+<th width="15%">Progress</th>
+<th width="15%">Status</th>
+</tr>
+<tr>
+<td>🧠 Complete Deep Learning Course</td>
+<td>100%</td>
+<td>15%</td>
+<td>███░░░░░░░</td>
+<td>🟡 On Track</td>
+</tr>
+<tr>
+<td>☁️ AWS Certification</td>
+<td>1 Cert</td>
+<td>0</td>
+<td>██░░░░░░░░</td>
+<td>🟡 In Progress</td>
+</tr>
+<tr>
+<td>📚 Read 3 Tech Books</td>
+<td>3</td>
+<td>1</td>
+<td>███░░░░░░░</td>
+<td>🟢 Good</td>
+</tr>
+<tr>
+<td>💻 Contribute to Open Source</td>
+<td>5</td>
+<td>0</td>
+<td>░░░░░░░░░░</td>
+<td>🔴 Not Started</td>
+</tr>
+</table>
+
+### Annual Goals 2025
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                  2025 ANNUAL TARGETS                       ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  Goal                          Target    Current  Status  ║
+║  ──────────────────────────────────────────────────────   ║
+║  New Projects                    20        2      ██░░░   ║
+║  GitHub Commits                 1000       50     █░░░░   ║
+║  Certifications                   3        0      ░░░░░   ║
+║  Tech Articles Written           12        0      ░░░░░   ║
+║  Conferences Attended             3        0      ░░░░░   ║
+║  Open Source Contributions       25        0      ░░░░░   ║
+║  New Tech Learned                 5        1      ██░░░   ║
+║                                                            ║
+║  📊 Overall Progress: 8%                                   ║
+║  🎯 Projected Completion: Dec 2025                         ║
+║  📈 Confidence Level: High                                 ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 💼 PROFESSIONAL DEVELOPMENT ROADMAP
+
+### Learning Path 2025
+
+<table>
+<tr>
+<td width="25%" align="center">
+<h4>Q1 2025</h4>
+🧠 Deep Learning<br/>
+☁️ AWS Basics<br/>
+⚛️ React Advanced<br/>
+<br/>
+<b>Investment:</b> 120h<br/>
+<b>ROI:</b> +25% value
+</td>
+<td width="25%" align="center">
+<h4>Q2 2025</h4>
+🐳 Docker Mastery<br/>
+☸️ Kubernetes<br/>
+📊 Data Engineering<br/>
+<br/>
+<b>Investment:</b> 150h<br/>
+<b>ROI:</b> +30% value
+</td>
+<td width="25%" align="center">
+<h4>Q3 2025</h4>
+🔐 Security Best Practices<br/>
+🚀 CI/CD Pipelines<br/>
+📱 Mobile Development<br/>
+<br/>
+<b>Investment:</b> 140h<br/>
+<b>ROI:</b> +22% value
+</td>
+<td width="25%" align="center">
+<h4>Q4 2025</h4>
+🎯 System Design<br/>
+💰 Blockchain Basics<br/>
+🌐 GraphQL<br/>
+<br/>
+<b>Investment:</b> 130h<br/>
+<b>ROI:</b> +20% value
+</td>
+</tr>
+</table>
+
+**Total Learning Investment 2025:** 540 hours  
+**Expected Skill Value Increase:** +97%  
+**Career Impact:** 🟢 Significant
+
+---
+
+## 📞 CONTACT & NETWORKING
+
+<div align="center">
+
+### Professional Network
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="80"/><br/>
+<b>LinkedIn</b><br/>
+<a href="https://www.linkedin.com/in/lucas-nathan-de-moraes-gomes-a83418242/">
+<img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><br/>
+<sub>Professional Network</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="80"/><br/>
+<b>GitHub</b><br/>
+<a href="https://github.com/LucNath">
+<img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><br/>
+<sub>Code Repository</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="80"/><br/>
+<b>Email</b><br/>
+<a href="mailto:lucasnathan.marc@gmail.com">
+<img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><br/>
+<sub>Direct Communication</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/whatsapp.png" width="80"/><br/>
+<b>WhatsApp</b><br/>
+<a href="https://wa.me/5585989652582">
+<img src="https://img.shields.io/badge/Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a><br/>
+<sub>Quick Response</sub>
+</td>
+</tr>
+</table>
+
+### Communication Preferences
+
+| Channel | Response Time | Best For | Availability |
+|:--------|:-------------:|:---------|:------------:|
+| 📧 Email | 24h | Formal proposals, Projects | 🟢 Always |
+| 💼 LinkedIn | 48h | Professional networking | 🟢 Always |
+| 💬 WhatsApp | 2-4h | Quick questions | 🟡 Business hours |
+| 🐙 GitHub | Varies | Code collaboration | 🟢 Always |
+
+</div>
+
+---
+
+## 📊 PERFORMANCE REVIEW SUMMARY
+
+<div align="center">
+
+### Overall Score Card
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║                    BATTLE STATISTICS                      ║
+║              DEVELOPER PERFORMANCE SCORECARD              ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
-║  Commits this year:    [████████░░] 500+                 ║
-║  Pull Requests:        [██████░░░░] 50+                  ║
-║  Issues Solved:        [███████░░░] 75+                  ║
-║  Repositories:         [█████████░] 50+                  ║
-║  Stars Received:       [████░░░░░░] 30+                  ║
+║  Category                Rating    Score    Grade        ║
+║  ─────────────────────────────────────────────────────   ║
+║  Technical Skills        ██████████  95%     A+          ║
+║  Project Delivery        ██████████  95%     A+          ║
+║  Code Quality            █████████░  90%     A           ║
+║  Innovation              ████████░░  85%     A           ║
+║  Communication           ████████░░  85%     A           ║
+║  Teamwork                ████████░░  88%     A           ║
+║  Learning Agility        ██████████  98%     A+          ║
+║                                                           ║
+║  ═══════════════════════════════════════════════════     ║
+║  OVERALL PERFORMANCE:    █████████░  91%     A+          ║
+║  ═══════════════════════════════════════════════════     ║
+║                                                           ║
+║  🎯 Recommendation: EXCEEDS EXPECTATIONS                  ║
+║  📈 Trend: CONSISTENTLY IMPROVING                         ║
+║  ⭐ Status: TOP PERFORMER                                 ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=LucNath&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00ff00&icon_color=ff0000&text_color=00ff00"/>
+### Key Strengths
+✅ Strong technical foundation across multiple domains  
+✅ Proven track record of project completion  
+✅ Excellent problem-solving abilities  
+✅ High learning velocity and adaptability  
+✅ Consistent GitHub activity and contributions  
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=LucNath&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff00&text_color=00ff00"/>
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                    COMBO STREAK! 🔥                       ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucNath&theme=radical&hide_border=true&background=0a0a0a&ring=00ff00&fire=ff0000&currStreakLabel=00ff00" alt="GitHub Streak"/>
+### Areas for Development
+🎯 Increase open source contributions  
+🎯 Expand cloud computing expertise  
+🎯 Build stronger public technical presence  
+🎯 Develop leadership and mentoring skills  
 
 </div>
 
 ---
 
-## 🎯 PRÓXIMAS MISSÕES (2025 ROADMAP)
-
 <div align="center">
+
+## 📌 DASHBOARD FOOTER
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    QUEST LOG 2025                           │
-├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  [ ] 🧠 DEEP LEARNING DUNGEON                               │
-│      └─ Objetivo: Dominar TensorFlow/PyTorch               │
-│      └─ Recompensa: +1000 XP, Title "Neural Master"        │
-│      └─ Dificuldade: ★★★★★                                 │
-│                                                             │
-│  [ ] ☁️ CLOUD TEMPLE                                        │
-│      └─ Objetivo: AWS Certification                        │
-│      └─ Recompensa: +800 XP, Skill "Cloud Ninja"           │
-│      └─ Dificuldade: ★★★★☆                                 │
-│                                                             │
-│  [ ] 🐳 DEVOPS ARENA                                        │
-│      └─ Objetivo: Docker + Kubernetes                      │
-│      └─ Recompensa: +700 XP, Title "DevOps Warrior"        │
-│      └─ Dificuldade: ★★★★☆                                 │
-│                                                             │
-│  [ ] ⚛️ REACT KINGDOM                                       │
-│      └─ Objetivo: React.js Mastery                         │
-│      └─ Recompensa: +600 XP, Skill "Component Mage"        │
-│      └─ Dificuldade: ★★★☆☆                                 │
-│                                                             │
-│  [ ] 🏆 OPEN SOURCE GUILD                                   │
-│      └─ Objetivo: 5+ Contribuições                         │
-│      └─ Recompensa: Continuous XP, Community Badge         │
-│      └─ Dificuldade: ★★★☆☆                                 │
+│  📊 This dashboard is updated monthly                       │
+│  📈 All metrics are measured against industry standards     │
+│  🎯 Goals are aligned with career development plan          │
+│  📞 For collaboration opportunities, reach out anytime      │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=LucNath&color=2c3e50&style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/UPDATED-FEBRUARY_2025-blue?style=for-the-badge)
 
 ---
 
-## 💬 MULTIPLAYER (Contato)
+**📊 Developed & Maintained by Lucas Nathan**  
+**🎯 Committed to Excellence | Driven by Innovation | Powered by Code**
 
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                 CONECTAR COM PLAYER                       ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║  Escolha seu método de comunicação:                      ║
-║                                                           ║
-║  [1] 📧 Email Quest                                       ║
-║      └─> lucasnathan.marc@gmail.com                      ║
-║                                                           ║
-║  [2] 💼 LinkedIn Party                                    ║
-║      └─> linkedin.com/in/lucas-nathan-de-moraes-gomes    ║
-║                                                           ║
-║  [3] 🐙 GitHub Guild                                      ║
-║      └─> github.com/LucNath                              ║
-║                                                           ║
-║  [4] 💬 WhatsApp Direct Message                           ║
-║      └─> +55 (85) 98965-2582                             ║
-║                                                           ║
-║  Press [A] to send message                               ║
-║  Press [B] to go back                                    ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN_PARTY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nathan-de-moraes-gomes-a83418242/)
-[![Email](https://img.shields.io/badge/EMAIL_QUEST-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasnathan.marc@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB_GUILD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucNath)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP_DM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585989652582)
-
-</div>
-
----
-
-## 🎮 EASTER EGGS & SECRETS
-
-<details>
-<summary>🔍 <b>Click here to reveal secret cheat codes...</b></summary>
-
-```python
-# 🎮 CHEAT CODES ATIVADOS!
-
-def god_mode():
-    skills = {
-        'coding': float('inf'),
-        'coffee': float('inf'),
-        'debugging': float('inf'),
-        'learning': float('inf')
-    }
-    return "IMORTAL ATIVADO! 🎮"
-
-def show_secrets():
-    print("""
-    ═══════════════════════════════════════
-    🎮 CÓDIGOS SECRETOS DESCOBERTOS! 🎮
-    ═══════════════════════════════════════
-    
-    • ↑↑↓↓←→←→BA = Todas as skills desbloqueadas
-    • IDDQD = Modo God (Café infinito)
-    • IDKFA = Todas as linguagens dominadas
-    • HESOYAM = +100000 XP
-    • PANZER = Commit streak infinito
-    
-    ⚠️ Use com sabedoria, jovem programador!
-    """)
-
-# SEGREDO: O verdadeiro cheat code é a dedicação 💪
-while alive:
-    learn()
-    code()
-    improve()
-    repeat()
-```
-
-**🏆 CONQUISTA DESBLOQUEADA:** "Easter Egg Hunter" +100 XP
-
-</details>
-
-<details>
-<summary>🎵 <b>8-Bit Music Player</b></summary>
-
-```
-♪♫ NOW PLAYING: "Code Symphony in C Major" ♫♪
-
-    ██████████████████████████████████████
-    █  ♪  The Developer's Theme Song  ♪  █
-    ██████████████████████████████████████
-
-      [▶️] Play    [⏸️] Pause    [⏭️] Next
-
-    Volume: ████████████████░░ 80%
-    
-    Playlist:
-    1. ♪ Coding in the Dark - Debugger's Anthem
-    2. ♪ Syntax Error Blues
-    3. ♪ Coffee Break Waltz  
-    4. ♪ Git Commit Tango
-    5. ♪ Stack Overflow Serenade 
-    
-    🎵 "While(1) { code(); coffee(); }" 🎵
-```
-
-</details>
-
-<details>
-<summary>🎲 <b>Random Developer Quote Generator</b></summary>
-
-```javascript
-const developerWisdom = [
-    "🎮 'Bugs are just undocumented features' - Every Dev",
-    "☕ 'Coffee.exe has stopped working' - Monday Morning",
-    "🐛 '99 bugs in the code, 99 bugs... fix one bug, compile again, 117 bugs in the code'",
-    "💻 'It works on my machine' - Famous Last Words",
-    "🔥 'First, solve the problem. Then, write the code' - John Johnson",
-    "🚀 'Code never lies, comments sometimes do' - Ron Jeffries",
-    "⚡ 'Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime'",
-    "🎯 'The best error message is the one that never shows up'"
-];
-
-const randomQuote = developerWisdom[Math.floor(Math.random() * developerWisdom.length)];
-console.log(randomQuote);
-
-// 🎲 Refresh the page for a new quote!
-```
-
-</details>
-
----
-
-## 🏁 GAME OVER... OR IS IT?
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║                    🎮 CONTINUE? 🎮                            ║
-║                                                               ║
-║                    [10... 9... 8...]                          ║
-║                                                               ║
-║              💰 INSERT COIN TO CONTINUE 💰                    ║
-║                                                               ║
-║   Pressione [STAR ⭐] para salvar o progresso                ║
-║   Pressione [FOLLOW 👥] para fazer parte da party            ║
-║   Pressione [FORK 🔱] para começar sua própria jornada       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-```
-    ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗    ███████╗ ██████╗ ██████╗ 
-    ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝    ██╔════╝██╔═══██╗██╔══██╗
-       ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗    █████╗  ██║   ██║██████╔╝
-       ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║    ██╔══╝  ██║   ██║██╔══██╗
-       ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║    ██║     ╚██████╔╝██║  ██║
-       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝
-                                                                                      
-    ██████╗ ██╗      █████╗ ██╗   ██╗██╗███╗   ██╗ ██████╗     ██╗                 
-    ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██║████╗  ██║██╔════╝     ██║                 
-    ██████╔╝██║     ███████║ ╚████╔╝ ██║██╔██╗ ██║██║  ███╗    ██║                 
-    ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██║██║╚██╗██║██║   ██║    ╚═╝                 
-    ██║     ███████╗██║  ██║   ██║   ██║██║ ╚████║╚██████╔╝    ██╗                 
-    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝                 
-```
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LucNath.LucNath&left_color=red&right_color=green&left_text=Players%20Visited)
-
----
-
-**⭐ HIGH SCORE: Se você chegou até aqui, você merece um Achievement! ⭐**
-
-```
-    ╔════════════════════════════════════════╗
-    ║  🏆 ACHIEVEMENT UNLOCKED! 🏆          ║
-    ║                                        ║
-    ║  "README COMPLETIONIST"                ║
-    ║  Leu o README inteiro                  ║
-    ║                                        ║
-    ║  +500 XP                               ║
-    ╚════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-
-**💾 CRIADO POR LUCAS NATHAN | SAVE FILE: 2025 💾**
-
-```
-    ▄████████    ▄████████  ▄█    █▄     ▄████████ 
-   ███    ███   ███    ███ ███    ███   ███    ███ 
-   ███    █▀    ███    ███ ███    ███   ███    █▀  
-   ███          ███    ███ ███    ███  ▄███▄▄▄     
- ▀███████████ ▀███████████ ███    ███ ▀▀███▀▀▀     
-          ███   ███    ███ ███    ███   ███    █▄  
-    ▄█    ███   ███    ███ ███    ███   ███    ███ 
-  ▄████████▀    ███    █▀   ▀██████▀    ██████████ 
-```
-
-**🎮 PRESS START TO CODE 🎮**
-
-![Game Over](https://media.giphy.com/media/8m5dizh7ghyEPIWIx1/giphy.gif)
+![Analytics](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
 
 </div>
