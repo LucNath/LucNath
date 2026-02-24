@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Lucas Nathan
+# 👋 Olá, eu sou Lucas Nathan.
 
 <div align="center">
   
