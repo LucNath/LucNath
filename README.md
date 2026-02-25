@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Lucas Nathan.
+# 👋 Olá, eu sou Lucas Nathan De Moraes Gomes.
 
 <div align="center">
   
