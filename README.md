@@ -94,38 +94,6 @@
 
 ---
 
-## 💼 Áreas de Especialização
-
-```python
-expertise = {
-    "Sistemas Embarcados": {
-        "Microcontroladores": ["8051", "STM32 (Cortex ARM)"],
-        "Plataformas": ["BeagleBone Black (Linux Debian)", "Arduino"],
-        "Aplicações": ["Sistemas com restrição de tempo", "IoT"]
-    },
-    
-    "Inteligência Artificial": {
-        "Machine Learning": ["Classificação", "Regressão", "Clustering"],
-        "Processamento de Imagens": ["OpenCV", "Filtros", "Segmentação"],
-        "Otimização": ["Algoritmos Genéticos", "Meta-heurísticas"]
-    },
-    
-    "Desenvolvimento Web": {
-        "Frontend": ["HTML", "CSS", "JavaScript", "TypeScript"],
-        "Backend": ["Node.js", "PHP", "Java"],
-        "Banco de Dados": ["MySQL", "MongoDB"]
-    },
-    
-    "Engenharia de Software": {
-        "Metodologias": ["SCRUM", "Levantamento de Requisitos"],
-        "Gestão": ["ProjectLibre", "Viabilidade Econômica"],
-        "Projetos": ["SO", "Redes Convergentes", "Computação Paralela"]
-    }
-}
-```
-
----
-
 ## 🔥 Projetos em Destaque
 
 ### 🧬 [Meta-heurísticas e Otimização](https://github.com/LucNath/Trabalho-AV3-Busca-Otimizacao-Inteligencia-Artificial)
