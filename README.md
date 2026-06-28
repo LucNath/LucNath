@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Computação;Desenvolvedor+Full+Stack;Entusiasta+de+IA+e+Sistemas+Embarcados;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Computação;Desenvolvedor+Full+Stack;Apaixonado+por+IA+%26+Sistemas+Embarcados)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,10 +44,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </div>
 
-### 🌐 Desenvolvimento Web
+### 🌐 Desenvolvimento Web & Mobile
 
 <div align="center">
 
@@ -57,6 +58,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
 
@@ -68,6 +70,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -79,6 +82,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
@@ -86,9 +90,7 @@
 
 <div align="center">
 
-
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
 
 </div>
 
@@ -100,21 +102,85 @@
 Implementação de algoritmos de otimização aplicados ao Problema do Caixeiro Viajante.  
 **Tech Stack:** `Python` `Numpy` `Matplotlib` `Algoritmos Genéticos` `Simulated Annealing`
 
+### 🧠 [Redes Neurais - IA](https://github.com/LucNath/Trabalho-AV2-Neural_Network-Inteligencia-Artificial)
+Implementação de arquiteturas Perceptron, ADALINE, MLP e RBF para classificação do dataset Spiral.  
+**Tech Stack:** `Python` `Numpy` `Machine Learning` `Deep Learning`
+
 ### 🤖 [Classificação e Regressão - Numpy](https://github.com/LucNath/Trabalho-AV1-Classificacao-Regressao-Inteligencia-Artificial)
 Modelos de ML implementados do zero: MQO, Naive Bayes, Gauss Tradicional e Regularizado.  
 **Tech Stack:** `Python` `Numpy` `Machine Learning` `Validação Monte Carlo`
 
-### 🖼️ [Processamento Digital de Imagem](https://github.com/LucNath/Processamento-Digital-de-Imagem)
+### 🖼️ [Processamento Digital de Imagem](https://github.com/LucNath/Processamento-Digital-de-Imagem-Trabalho-Final)
 Algoritmos de PDI: filtros, transformadas, segmentação e detecção de bordas.  
 **Tech Stack:** `Python` `OpenCV` `Numpy` `Computer Vision`
 
+---
+
+## 📱 Projetos Mobile & Android
+
+### 📱 [Desenvolvimento em Plataformas Móveis](https://github.com/LucNath/DesenvolvimentoEmPlataformasMoveis)
+Aplicativo de reserva e leitura desenvolvido em Kotlin para Android.  
+**Tech Stack:** `Kotlin` `Android` `SQLite`
+
+### 📲 [Android Mobile - Aula 01](https://github.com/LucNath/Kotlin-e-Java-Mobile-Aula01)
+Aplicativo Android com tela de login e navegação entre Activities.  
+**Tech Stack:** `Kotlin` `Java` `Android Studio`
+
+### 🐛 [Android Mobile - Aula 02: Debug e LogCat](https://github.com/LucNath/Kotlin-e-Java-Mobile-Aula02-Debug-e-LogCat)
+Projeto Android focado em debugging, LogCat e boas práticas de desenvolvimento.  
+**Tech Stack:** `Java` `Kotlin` `Android` `Debug Tools`
+
+### 📚 [Android Developer 2023](https://github.com/LucNath/developerAndroid2023_N)
+Estudos em desenvolvimento Android com Java.  
+**Tech Stack:** `Java` `Android` `Mobile Development`
+
+---
+
+## 💻 Projetos Backend & Banco de Dados
+
+### 🗄️ [POO, JDBC e JUnit](https://github.com/LucNath/Aula03DataBasePOOJunit)
+Projeto em Java explorando Programação Orientada a Objetos, integração com banco de dados via JDBC e testes unitários com JUnit.  
+**Tech Stack:** `Java` `JDBC` `JUnit` `DAO Pattern` `MySQL`
+
 ### 🐝 [Beecrowd Solutions](https://github.com/LucNath/Beecrowd-Solutions)
-Soluções para problemas de programação competitiva e algoritmos.  
+Soluções para problemas de programação competitiva e algoritmos de diferentes níveis de dificuldade.  
 **Tech Stack:** `Python` `C++` `Java` `Algoritmos` `Estruturas de Dados`
 
 ---
 
-## 🎓 Projetos Acadêmicos
+## 🌐 Projetos Frontend & Web
+
+### 🎨 [AnnaBella - Portfolio](https://github.com/LucNath/AnnaBella)
+Portfólio pessoal HTML/CSS responsivo.  
+**Tech Stack:** `HTML` `CSS`
+
+### 🏛️ [Museu Nacional](https://github.com/LucNath/museu-nacional)
+Site informativo sobre o Museu Nacional com HTML semântico.  
+**Tech Stack:** `HTML` `CSS` `Web Design`
+
+### 📰 [Notícias Cidade](https://github.com/LucNath/Noticias-Cidade)
+Portal de notícias desenvolvido com HTML e CSS.  
+**Tech Stack:** `HTML` `CSS` `Web Layout`
+
+### 📝 [TecBlog](https://github.com/LucNath/TecBlog)
+Blog sobre tecnologia e desenvolvimento web.  
+**Tech Stack:** `HTML` `CSS` `Web Content`
+
+### 🎮 [Nuvem Joguinho](https://github.com/LucNath/Nuvem-Joguinho)
+Jogo web desenvolvido em JavaScript.  
+**Tech Stack:** `JavaScript` `HTML` `CSS` `Game Development`
+
+---
+
+## 🔧 Projetos IoT & Telemetria
+
+### 📍 [Staff Telemetria Geofence](https://github.com/LucNath/staff-telemetria-geofence)
+Sistema de telemetria com geofencing para rastreamento de pessoal.  
+**Tech Stack:** `Python` `IoT` `Geolocalização` `Telemetria`
+
+---
+
+## 🎓 Projetos Acadêmicos & Estudos
 
 ### 🖧 Sistemas Embarcados
 - ⚡ **Microcontroladores 8051** - Desenvolvimento de sistemas básicos
@@ -152,10 +218,10 @@ Soluções para problemas de programação competitiva e algoritmos.
 Inteligência Artificial • Sistemas Embarcados • IoT
 
 **💻 Desenvolvimento**  
-Full Stack • Machine Learning • Microcontroladores
+Full Stack • Machine Learning • Mobile • Microcontroladores
 
 **📚 Sempre Aprendendo**  
-Deep Learning • Cloud Computing • DevOps
+Deep Learning • Cloud Computing • DevOps • Computer Vision
 
 </div>
 
