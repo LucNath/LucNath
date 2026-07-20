@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio - LucNath</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f4f4f4;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 60px 40px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+        
+        header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .section {
+            margin-bottom: 40px;
+        }
+        
+        .section h2 {
+            color: #667eea;
+            font-size: 2em;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        
+        .projects-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .project-card {
+            background: #f9f9f9;
+            border-left: 4px solid #667eea;
+            padding: 20px;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+        
+        .project-card:hover {
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
+            transform: translateY(-2px);
+        }
+        
+        .project-card h3 {
+            color: #764ba2;
+            margin-bottom: 8px;
+            font-size: 1.2em;
+        }
+        
+        .project-card .language {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            margin-bottom: 10px;
+        }
+        
+        .project-card p {
+            font-size: 0.95em;
+            color: #555;
+            margin-bottom: 10px;
+        }
+        
+        .project-card a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        
+        .project-card a:hover {
+            text-decoration: underline;
+        }
+        
+        .skills-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+        }
+        
+        .skill-category h3 {
+            color: #764ba2;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+        }
+        
+        .skill-tag {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 8px 15px;
+            margin: 5px 5px 5px 0;
+            border-radius: 20px;
+            font-size: 0.9em;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-box {
+            text-align: center;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 5px;
+        }
+        
+        .stat-box .number {
+            font-size: 2.5em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .stat-box .label {
+            font-size: 0.95em;
+            opacity: 0.9;
+        }
+        
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+        
+        .github-link {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        
+        @media print {
+            body {
+                background: white;
+            }
+            .container {
+                box-shadow: none;
+            }
+            .project-card {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>LucNath</h1>
+            <p>Desenvolvedor Full-Stack | Java | Android | Python | Web Development</p>
+        </header>
+        
+        <div class="content">
+            <!-- Stats Section -->
+            <div class="stats">
+                <div class="stat-box">
+                    <div class="number">18</div>
+                    <div class="label">Repositórios</div>
+                </div>
+                <div class="stat-box">
+                    <div class="number">6</div>
+                    <div class="label">Linguagens</div>
+                </div>
+                <div class="stat-box">
+                    <div class="number">5</div>
+                    <div class="label">Áreas</div>
+                </div>
+            </div>
+            
+            <!-- About Section -->
+            <div class="section">
+                <h2>Sobre Mim</h2>
+                <p>Desenvolvedor apaixonado por tecnologia com experiência em desenvolvimento de aplicações web, mobile e desktop. Especializado em Java, Python e Kotlin com foco em boas práticas de programação, testes unitários e padrões de design. Possuo conhecimento em inteligência artificial, processamento de imagens e desenvolvimento Android.</p>
+            </div>
+            
+            <!-- Projects Section -->
+            <div class="section">
+                <h2>Projetos Principais</h2>
+                
+                <div class="projects-grid">
+                    <!-- Mobile Development -->
+                    <div class="project-card">
+                        <h3>📱 Desenvolvimento Mobile</h3>
+                        <span class="language">Kotlin/Java</span>
+                        <p>Aplicativos Android incluindo:</p>
+                        <ul style="margin-left: 20px; margin-bottom: 10px;">
+                            <li>Kotlin-e-Java-Mobile-Aula01</li>
+                            <li>DesenvolvimentoEmPlataformasMoveis</li>
+                            <li>developerAndroid2023_N</li>
+                        </ul>
+                        <p>Implementação de Login, Activities, Debug com LogCat e aplicativo de reserva de livros.</p>
+                    </div>
+                    
+                    <!-- Database & OOP -->
+                    <div class="project-card">
+                        <h3>🗄️ Backend & Banco de Dados</h3>
+                        <span class="language">Java</span>
+                        <p><strong>Aula03DataBasePOOJunit:</strong> Projeto explorandoPOO, JDBC, padrão DAO com operações CRUD e testes com JUnit.</p>
+                        <p>Implementação profissional de camadas de acesso a dados com validação automática.</p>
+                    </div>
+                    
+                    <!-- AI & Machine Learning -->
+                    <div class="project-card">
+                        <h3>🤖 Inteligência Artificial</h3>
+                        <span class="language">Python</span>
+                        <p>Trabalhos de IA Computacional:</p>
+                        <ul style="margin-left: 20px; margin-bottom: 10px;">
+                            <li>Classificação e Regressão (MQO, Naive Bayes)</li>
+                            <li>Redes Neurais (Perceptron, ADALINE, MLP, RBF)</li>
+                            <li>Meta-heurísticas (Simulated Annealing, AG)</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- Image Processing -->
+                    <div class="project-card">
+                        <h3>🖼️ Processamento Digital</h3>
+                        <span class="language">Python</span>
+                        <p><strong>Processamento-Digital-de-Imagem:</strong></p>
+                        <p>Algoritmos de filtros, transformações, segmentação e análise de imagens usando OpenCV e Numpy.</p>
+                    </div>
+                    
+                    <!-- Web Development -->
+                    <div class="project-card">
+                        <h3>🌐 Desenvolvimento Web</h3>
+                        <span class="language">HTML/CSS/JS</span>
+                        <p>Projetos frontend:</p>
+                        <ul style="margin-left: 20px; margin-bottom: 10px;">
+                            <li>AnnaBella - Site Portfólio</li>
+                            <li>TecBlog - Blog Tecnológico</li>
+                            <li>Noticias-Cidade - Portal de Notícias</li>
+                            <li>Nuvem-Joguinho - Jogo JavaScript</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- Algorithms & Practice -->
+                    <div class="project-card">
+                        <h3>📚 Algoritmos & Estruturas</h3>
+                        <span class="language">Java</span>
+                        <p><strong>Beecrowd-Solutions:</strong></p>
+                        <p>Soluções para problemas de programação competitiva praticando algoritmos e estruturas de dados.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Skills Section -->
+            <div class="section">
+                <h2>Competências Técnicas</h2>
+                <div class="skills-container">
+                    <div class="skill-category">
+                        <h3>Linguagens de Programação</h3>
+                        <span class="skill-tag">Java</span>
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">Kotlin</span>
+                        <span class="skill-tag">JavaScript</span>
+                        <span class="skill-tag">HTML/CSS</span>
+                    </div>
+                    
+                    <div class="skill-category">
+                        <h3>Frameworks & Bibliotecas</h3>
+                        <span class="skill-tag">Android</span>
+                        <span class="skill-tag">JDBC</span>
+                        <span class="skill-tag">JUnit</span>
+                        <span class="skill-tag">OpenCV</span>
+                        <span class="skill-tag">Numpy</span>
+                    </div>
+                    
+                    <div class="skill-category">
+                        <h3>Conceitos & Padrões</h3>
+                        <span class="skill-tag">POO</span>
+                        <span class="skill-tag">Padrão DAO</span>
+                        <span class="skill-tag">CRUD</span>
+                        <span class="skill-tag">Testes Unitários</span>
+                        <span class="skill-tag">Debugging</span>
+                    </div>
+                    
+                    <div class="skill-category">
+                        <h3>Áreas de Especialização</h3>
+                        <span class="skill-tag">Mobile Dev</span>
+                        <span class="skill-tag">Machine Learning</span>
+                        <span class="skill-tag">Image Processing</span>
+                        <span class="skill-tag">Backend</span>
+                        <span class="skill-tag">Frontend</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Learning Path -->
+            <div class="section">
+                <h2>Áreas de Aprendizado</h2>
+                <p>Minha jornada como desenvolvedor abrange:</p>
+                <ul style="margin-left: 20px; margin-top: 15px; line-height: 2;">
+                    <li><strong>Desenvolvimento Backend:</strong> Programação em Java com foco em POO, acesso a dados via JDBC e padrões como DAO.</li>
+                    <li><strong>Desenvolvimento Mobile:</strong> Aplicações Android nativas em Java e Kotlin com navegação entre Activities e debugging.</li>
+                    <li><strong>Inteligência Artificial:</strong> Modelos de classificação, redes neurais e meta-heurísticas para otimização.</li>
+                    <li><strong>Processamento de Imagens:</strong> Filtros digitais, transformações e segmentação com OpenCV.</li>
+                    <li><strong>Desenvolvimento Web:</strong> Construção de sites responsivos com HTML, CSS e JavaScript.</li>
+                    <li><strong>Resolução de Problemas:</strong> Prática contínua com algoritmos e estruturas de dados.</li>
+                </ul>
+            </div>
+            
+            <!-- Contact & Links -->
+            <div class="section">
+                <h2>Conecte-se Comigo</h2>
+                <p><a href="https://github.com/LucNath" class="github-link">GitHub: github.com/LucNath</a></p>
+                <p>Todos os meus projetos estão disponíveis no meu perfil do GitHub com código-fonte completo e documentação.</p>
+            </div>
+        </div>
+        
+        <footer>
+            <p>Portfólio de LucNath - Desenvolvedor Full-Stack | Gerado em 2026</p>
+            <p><a href="https://github.com/LucNath" style="color: white;">github.com/LucNath</a></p>
+        </footer>
+    </div>
+</body>
+</html>
