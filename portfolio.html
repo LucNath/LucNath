@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio - Lucas Nathan De Moraes Gomes</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+        
+        /* Header */
+        header {
+            background: linear-gradient(135deg, #1A56DB 0%, #1E429F 100%);
+            color: white;
+            padding: 60px 40px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        header .subtitle {
+            font-size: 1.3em;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+        
+        header .contact {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            font-size: 0.95em;
+        }
+        
+        header .contact span {
+            background: rgba(255,255,255,0.2);
+            padding: 5px 15px;
+            border-radius: 20px;
+        }
+        
+        /* Main Content */
+        main {
+            padding: 40px;
+        }
+        
+        section {
+            margin-bottom: 40px;
+        }
+        
+        section h2 {
+            font-size: 1.8em;
+            color: #1A56DB;
+            border-bottom: 3px solid #1A56DB;
+            padding-bottom: 10px;
+            margin-bottom: 25px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        /* Sobre */
+        .about {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+        
+        .about-text p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        
+        .skills {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        
+        .skill-category h4 {
+            color: #1A56DB;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+        
+        .skill-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        
+        .skill-tag {
+            background: #EBF5FF;
+            color: #1A56DB;
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+        
+        /* Projetos */
+        .projects {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 25px;
+        }
+        
+        .project {
+            border-left: 4px solid #1A56DB;
+            padding: 20px;
+            background: #f9f9f9;
+            border-radius: 5px;
+        }
+        
+        .project h3 {
+            color: #1A56DB;
+            margin-bottom: 8px;
+            font-size: 1.2em;
+        }
+        
+        .project-type {
+            display: inline-block;
+            background: #76A9FA;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 10px;
+            font-size: 0.8em;
+            margin-bottom: 8px;
+            margin-right: 8px;
+        }
+        
+        .project-desc {
+            color: #666;
+            margin-bottom: 10px;
+            font-size: 0.95em;
+        }
+        
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        
+        .tech {
+            background: #E5E7EB;
+            color: #374151;
+            padding: 3px 8px;
+            border-radius: 8px;
+            font-size: 0.85em;
+        }
+        
+        /* Timeline */
+        .timeline {
+            position: relative;
+            padding-left: 40px;
+        }
+        
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 10px;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: #1A56DB;
+        }
+        
+        .timeline-item {
+            margin-bottom: 30px;
+            position: relative;
+        }
+        
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -30px;
+            top: 5px;
+            width: 18px;
+            height: 18px;
+            background: #1A56DB;
+            border: 3px solid white;
+            border-radius: 50%;
+            box-shadow: 0 0 0 3px #1A56DB;
+        }
+        
+        .timeline-item h4 {
+            color: #1A56DB;
+            margin-bottom: 5px;
+        }
+        
+        .timeline-item .date {
+            color: #999;
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+        
+        /* Grid para Estatísticas */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-box {
+            background: linear-gradient(135deg, #1A56DB 0%, #1E429F 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .stat-box .number {
+            font-size: 2em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .stat-box .label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+        
+        /* Footer */
+        footer {
+            background: #111827;
+            color: white;
+            text-align: center;
+            padding: 30px 40px;
+            font-size: 0.9em;
+        }
+        
+        footer a {
+            color: #76A9FA;
+            text-decoration: none;
+        }
+        
+        /* Responsivo para PDF */
+        @media print {
+            body {
+                background: white;
+            }
+            
+            .container {
+                box-shadow: none;
+                margin: 0;
+                max-width: 100%;
+            }
+            
+            section {
+                page-break-inside: avoid;
+            }
+            
+            .about {
+                grid-template-columns: 1fr;
+            }
+            
+            .stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        
+        /* Utilitários */
+        .highlight {
+            color: #1A56DB;
+            font-weight: 600;
+        }
+        
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>👋 Lucas Nathan De Moraes Gomes</h1>
+            <p class="subtitle">Engenheiro de Computação | Desenvolvedor Full Stack</p>
+            <div class="contact">
+                <span>📧 lucasnathan.marc@gmail.com</span>
+                <span>📱 (85) 98965-2582</span>
+                <span>🔗 github.com/LucNath</span>
+                <span>💼 LinkedIn: lucas-nathan-de-moraes-gomes</span>
+            </div>
+        </header>
+
+        <main>
+            <!-- Sobre Mim -->
+            <section>
+                <h2>🎓 Sobre Mim</h2>
+                <div class="about">
+                    <div class="about-text">
+                        <p>
+                            Estudante de <span class="highlight">Engenharia de Computação</span> na UNIFOR (Universidade de Fortaleza), 
+                            apaixonado por <span class="highlight">Inteligência Artificial</span>, <span class="highlight">Desenvolvimento Web</span> 
+                            e <span class="highlight">Sistemas Embarcados</span>.
+                        </p>
+                        <p>
+                            Desenvolvedor Full Stack com experiência prática em múltiplas linguagens e frameworks. Proativo, curioso 
+                            e sempre buscando evoluir tecnicamente através de projetos desafiadores e colaboração em equipe.
+                        </p>
+                        <p>
+                            📍 <strong>Localização:</strong> Fortaleza, CE - Brasil
+                        </p>
+                    </div>
+                    <div class="skills">
+                        <div class="skill-category">
+                            <h4>💻 Linguagens</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">Python</span>
+                                <span class="skill-tag">Java</span>
+                                <span class="skill-tag">C/C++</span>
+                                <span class="skill-tag">JavaScript</span>
+                                <span class="skill-tag">Kotlin</span>
+                                <span class="skill-tag">TypeScript</span>
+                            </div>
+                        </div>
+                        <div class="skill-category">
+                            <h4>🌐 Web & Mobile</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">HTML5</span>
+                                <span class="skill-tag">CSS3</span>
+                                <span class="skill-tag">Android</span>
+                                <span class="skill-tag">Node.js</span>
+                                <span class="skill-tag">Firebase</span>
+                                <span class="skill-tag">SQL</span>
+                            </div>
+                        </div>
+                        <div class="skill-category">
+                            <h4>🤖 IA & Data Science</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">Machine Learning</span>
+                                <span class="skill-tag">Numpy</span>
+                                <span class="skill-tag">OpenCV</span>
+                                <span class="skill-tag">Pandas</span>
+                                <span class="skill-tag">Matplotlib</span>
+                            </div>
+                        </div>
+                        <div class="skill-category">
+                            <h4>⚙️ Ferramentas</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">Git</span>
+                                <span class="skill-tag">Docker</span>
+                                <span class="skill-tag">Linux</span>
+                                <span class="skill-tag">Arduino</span>
+                                <span class="skill-tag">VS Code</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Estatísticas -->
+            <section>
+                <h2>📊 Destaques</h2>
+                <div class="stats">
+                    <div class="stat-box">
+                        <div class="number">16+</div>
+                        <div class="label">Repositórios</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="number">8+</div>
+                        <div class="label">Linguagens</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="number">3+</div>
+                        <div class="label">Anos de Estudo</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="number">🎓</div>
+                        <div class="label">Engenharia de Comp.</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Projetos em Destaque -->
+            <section>
+                <h2>🚀 Projetos em Destaque</h2>
+                <div class="projects">
+                    <div class="project">
+                        <span class="project-type">Inteligência Artificial</span>
+                        <h3>🧬 Meta-heurísticas e Otimização</h3>
+                        <p class="project-desc">
+                            Implementação de algoritmos de otimização (Algoritmos Genéticos e Simulated Annealing) aplicados ao 
+                            Problema do Caixeiro Viajante, com análise comparativa de desempenho e visualização de convergência.
+                        </p>
+                        <div class="tech-stack">
+                            <span class="tech">Python</span>
+                            <span class="tech">NumPy</span>
+                            <span class="tech">Matplotlib</span>
+                            <span class="tech">Algoritmos Genéticos</span>
+                            <span class="tech">Meta-heurísticas</span>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <span class="project-type">Machine Learning</span>
+                        <h3>🧠 Redes Neurais - Inteligência Artificial</h3>
+                        <p class="project-desc">
+                            Implementação de arquiteturas Perceptron, ADALINE, MLP e RBF para classificação do dataset Spiral. 
+                            Projeto da disciplina de Inteligência Artificial Computacional com validação de modelos.
+                        </p>
+                        <div class="tech-stack">
+                            <span class="tech">Python</span>
+                            <span class="tech">NumPy</span>
+                            <span class="tech">Deep Learning</span>
+                            <span class="tech">Redes Neurais</span>
+                            <span class="tech">Classificação</span>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <span class="project-type">Mobile / Android</span>
+                        <h3>📱 Biblioteca Digital - Unifor</h3>
+                        <p class="project-desc">
+                            Aplicativo mobile desenvolvido em Kotlin/Android para gerenciamento de biblioteca universitária. 
+                            Incluí arquitetura MVVM, integração com Firebase e design system completo com Material Design 3.
+                        </p>
+                        <div class="tech-stack">
+                            <span class="tech">Kotlin</span>
+                            <span class="tech">Android Studio</span>
+                            <span class="tech">Firebase</span>
+                            <span class="tech">MVVM</span>
+                            <span class="tech">Firestore</span>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <span class="project-type">Backend / Banco de Dados</span>
+                        <h3>🗄️ POO, JDBC e JUnit - Integração com BD</h3>
+                        <p class="project-desc">
+                            Projeto Java aplicando Programação Orientada a Objetos, integração com banco de dados via JDBC, 
+                            padrão DAO e testes automatizados com JUnit.
+                        </p>
+                        <div class="tech-stack">
+                            <span class="tech">Java</span>
+                            <span class="tech">JDBC</span>
+                            <span class="tech">JUnit</span>
+                            <span class="tech">MySQL</span>
+                            <span class="tech">DAO Pattern</span>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <span class="project-type">Computer Vision</span>
+                        <h3>🖼️ Processamento Digital de Imagem</h3>
+                        <p class="project-desc">
+                            Implementação de algoritmos de PDI: filtros, transformadas, segmentação e detecção de bordas 
+                            utilizando Python, OpenCV e técnicas avançadas de processamento.
+                        </p>
+                        <div class="tech-stack">
+                            <span class="tech">Python</span>
+                            <span class="tech">OpenCV</span>
+                            <span class="tech">NumPy</span>
+                            <span class="tech">Computer Vision</span>
+                            <span class="tech">Jupyter Notebook</span>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <span class="project-type">IoT</span>
+                        <h3>📍 Staff Telemetria Geofence</h3>
+                        <p class="project-desc">
+                            Sistema de telemetria com geofencing para rastreamento de pessoal. 
+                            Projeto que integra conceitos de IoT, geolocalização e processamento de dados em tempo real.
+                        </p>
+                        <div class="tech-stack">
+                            <span class="tech">Python</span>
+                            <span class="tech">IoT</span>
+                            <span class="tech">Geolocalização</span>
+                            <span class="tech">Telemetria</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Outros Projetos -->
+            <section>
+                <h2>💻 Projetos Adicionais</h2>
+                <div class="grid-2">
+                    <div>
+                        <h4 style="color: #1A56DB; margin-bottom: 15px;">🌐 Frontend & Web</h4>
+                        <ul style="list-style: none;">
+                            <li style="margin-bottom: 8px;">✨ AnnaBella - Portfolio (HTML/CSS)</li>
+                            <li style="margin-bottom: 8px;">✨ Museu Nacional (Web Design)</li>
+                            <li style="margin-bottom: 8px;">✨ Notícias Cidade (Portal)</li>
+                            <li style="margin-bottom: 8px;">✨ TecBlog (Blog de Tecnologia)</li>
+                            <li style="margin-bottom: 8px;">✨ Nuvem Joguinho (Jogo Web)</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4 style="color: #1A56DB; margin-bottom: 15px;">📚 Acadêmicos & Estudos</h4>
+                        <ul style="list-style: none;">
+                            <li style="margin-bottom: 8px;">📖 Beecrowd Solutions (Algoritmos)</li>
+                            <li style="margin-bottom: 8px;">🎓 Classificação e Regressão (ML)</li>
+                            <li style="margin-bottom: 8px;">📱 Android Mobile - Aula 01</li>
+                            <li style="margin-bottom: 8px;">🐛 Android Mobile - Debug/LogCat</li>
+                            <li style="margin-bottom: 8px;">⚡ Sistemas Embarcados (8051, STM32)</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Competências Técnicas -->
+            <section>
+                <h2>🎯 Áreas de Expertise</h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <h4>Inteligência Artificial & Machine Learning</h4>
+                        <p class="timeline-item">Implementação de modelos de classificação, regressão, redes neurais e meta-heurísticas. Experiência com frameworks de ML e análise de dados.</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Desenvolvimento Full Stack</h4>
+                        <p class="timeline-item">Desenvolvimento de aplicações web e mobile, integração com bancos de dados, APIs RESTful e arquitetura MVVM.</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Sistemas Embarcados & IoT</h4>
+                        <p class="timeline-item">Programação de microcontroladores (8051, STM32), desenvolvimento com Arduino e sistemas com restrição de tempo real.</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Algoritmos & Estruturas de Dados</h4>
+                        <p class="timeline-item">Análise e implementação de algoritmos complexos, otimização de desempenho e resolução de problemas computacionais.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Formação Acadêmica -->
+            <section>
+                <h2>🎓 Formação Acadêmica</h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <h4>Engenharia de Computação</h4>
+                        <p class="timeline-item">
+                            <strong>UNIFOR - Universidade de Fortaleza</strong><br>
+                            Em andamento | Disciplinas: Inteligência Artificial, Sistemas Operacionais, Redes Convergentes, 
+                            Computação Paralela, Engenharia de Software, Processamento de Imagem
+                        </p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Certificações & Cursos</h4>
+                        <p class="timeline-item">
+                            Desenvolvimento Mobile (Kotlin/Java/Android) • Machine Learning com Python • Programação Competitiva • 
+                            Banco de Dados Relacional
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Interesses -->
+            <section>
+                <h2>💡 Interesses & Valores</h2>
+                <p style="margin-bottom: 15px;">
+                    <strong>🔬 Pesquisa & Desenvolvimento:</strong> Deep Learning • Computer Vision • Sistemas Embarcados Avançados
+                </p>
+                <p style="margin-bottom: 15px;">
+                    <strong>💻 Desenvolvimento:</strong> Full Stack • Cloud Computing • DevOps • Arquitetura de Software
+                </p>
+                <p>
+                    <strong>🌱 Valores:</strong> Aprendizado contínuo • Colaboração em equipe • Código limpo e documentação • 
+                    Inovação e criatividade • Excelência técnica
+                </p>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer>
+            <p>
+                📄 Portfólio Digital - <strong>Lucas Nathan De Moraes Gomes</strong> | 
+                Gerado em <strong>2026</strong> | 
+                🔗 <a href="https://github.com/LucNath">github.com/LucNath</a>
+            </p>
+            <p style="margin-top: 10px; opacity: 0.8;">
+                Para converter este HTML para PDF, utilize ferramentas como: 
+                <strong>Print → Salvar como PDF</strong> no navegador, ou plataformas como <strong>ILovePDF</strong>
+            </p>
+        </footer>
+    </div>
+</body>
+</html>
